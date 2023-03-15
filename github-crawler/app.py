@@ -3,7 +3,7 @@ app = Flask(__name__)
 import lib.helper as helpp
 
 #constants below
-OWNER = 'vishwakulkarni'
+OWNER = 'cmodi009'
 github_api = "https://api.github.com"
 
 helper = helpp.Helper()

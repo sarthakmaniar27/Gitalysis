@@ -18,3 +18,4 @@ def insert(request):
     # TODO: this requires me to import all models
     obj = eval(content[TABLE]).create(**(content[BODY]))
     return obj
+

@@ -287,6 +287,7 @@ def statistics_of_repo(repo, owner, api):
 # In[ ]:
 
 '''
+
 weeks_list = []
 for i in (contrib_list):
     for j in i['weeks']:
@@ -303,3 +304,4 @@ weeks_df['week'] = weeks_df['date'].dt.week
 
 #weeks_df.to_sql(con=engine, name='contributions',
 #                 if_exists='replace', dtype=objects_to_strings(weeks_df))
+
