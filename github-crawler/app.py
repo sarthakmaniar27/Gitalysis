@@ -1,13 +1,18 @@
 from flask import Flask
 app = Flask(__name__)
 import lib.helper as helpp
+
 #constants below
-OWNER = 'vishwakulkarni'
+OWNER = 'cmodi009'
 github_api = "https://api.github.com"
+
 helper = helpp.Helper()
+
 @app.route('/')
 def home_page():
     return 'Hello guys nothing here! just submit your github organization name at "/org/<orgname>"!'
+
+
 @app.route('/org/<orgname>')
 def org_parser(orgname):
     print("setting UP!!!")
@@ -19,17 +24,6 @@ def org_parser(orgname):
     helper.send_to_elasticInstance(org_data,'org1',org_data['id'])
     print("Getting Repos for "+orgname)
     repo_list = helper.get_repositories(OWNER,github_api)
-
-    
-        
-          
-    
-
-        
-     
-    
-    @@ -28,6 +29,11 @@ def org_parser(orgname):
-  
     print("sending repo info to elasticsearch")
     for repo in repo_list:
         repo['license']="test"
@@ -43,16 +37,6 @@ def org_parser(orgname):
     print("Done!!!!!!!!!")
     return 'We got your org name ' + orgname + ' give us some time to process your request, please check server output for progress'
 
-
-    
-          
-            
-    
-
-     
-    
-    
-  
     
 if __name__ == "__main__":
     app.run(debug=True)

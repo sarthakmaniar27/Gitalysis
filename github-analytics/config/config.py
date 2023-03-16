@@ -1,3 +1,2 @@
-
 FLASK_HOST = 'localhost'
 FLASK_PORT = 4000

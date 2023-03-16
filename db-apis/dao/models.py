@@ -13,7 +13,6 @@ class Users(Model):
     repos = columns.List(value_type=columns.Text, required=False)
 
 
-
 class Data(Model):
     gitid = columns.Text(required=True)
     name = columns.Text(primary_key=True,required=True)
