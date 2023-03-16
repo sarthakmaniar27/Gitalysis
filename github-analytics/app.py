@@ -23,15 +23,4 @@ def user_retrive(username):
 
 
 if __name__ == '__main__':
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
     app.run(host=config.FLASK_HOST, port=config.FLASK_PORT, debug=True)
