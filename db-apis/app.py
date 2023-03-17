@@ -49,7 +49,14 @@ def get_data():
     # TODO: Catch exceptions P1
     return core.get_data(request)
 
+@app.route('/get_all', methods=['POST'])
+def get_all_data():
+    # TODO: populate response P0
+    # TODO: Catch exceptions P1
+    haha = core.get_all_data(request)
+    return core.get_all_data(request)
 
+    
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
