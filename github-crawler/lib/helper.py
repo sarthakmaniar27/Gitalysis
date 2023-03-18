@@ -10,7 +10,7 @@ from elasticsearch import Elasticsearch
 
 GITEA_APP_URL = 'YOUR_GITEA_API'
 GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'
-GITHUB_USERNAME = 'vishwakulkarni'
+GITHUB_USERNAME = 'cmodi009'
 GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'
 SQL_ALCHEMY_STRING = ''
               
@@ -97,8 +97,8 @@ class Helper():
 h = Helper()
 github_api = "https://api.github.com"
 h.set_org_name("CUBigDataClass")
-#print(h.get_org_information("vishwakulkarni",github_api))
-k=h.get_repositories('vishwakulkarni',github_api)
+#print(h.get_org_information("cmodi009",github_api))
+k=h.get_repositories('cmodi009',github_api)
 commits = h.commits_of_repo_github('kode-kallas','cubigdataclass',github_api)
 for commit in commits:
     h.send_to_elasticInstance(commit,'commit',commit['sha'])
