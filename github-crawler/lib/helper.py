@@ -3,17 +3,21 @@ import requests
 from pandas.io.json import json_normalize
 from sqlalchemy import create_engine, engine, text, types, MetaData, Table, String
 from datetime import datetime
+
+
 import config
 import os
+
 #elasticsearch
 from elasticsearch import Elasticsearch
 
 GITEA_APP_URL = 'YOUR_GITEA_API'
-GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'
-GITHUB_USERNAME = 'cmodi009'
-GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'
+GITEA_TOKEN = '48fb007c866e8fb377a4d61a60af3dc881707df4'
+GITHUB_USERNAME = 'vishwakulkarni'
+GITHUB_TOKEN = '48fb007c866e8fb377a4d61a60af3dc881707df4'
 SQL_ALCHEMY_STRING = ''
-              
+
+
 
 class Helper():
     def __init__(self):
@@ -29,11 +33,13 @@ class Helper():
     def set_org_name(self,orgname):
         self.orgname = orgname
         return
+
     def get_org_information(self,owner,api):
         url = api + '/orgs/{}'.format(self.orgname)
         org_data = self.gh_session.get(url = url)
         org_data=json.loads(org_data.content)
         return org_data
+
     def send_to_elasticInstance(self,data,index_name,id_val):
         self.es.index(index=index_name, doc_type='_doc',id=id_val, body=data)
     
@@ -69,7 +75,7 @@ class Helper():
                     print(i)
                     next = False
             i = i + 1
-
+        
         return members_list
 
     #save commits of repos as json
@@ -82,8 +88,11 @@ class Helper():
             commit_pg = self.gh_session.get(url = url)
             commit_tp = json.loads(commit_pg.content)
             for commit in commit_tp:
-                commits.append(commit) 
-                print(commit)
+                url = commit['url']
+                single_commit = self.gh_session.get(url = url)
+                single_commit = json.loads(single_commit.content)
+                commits.append(single_commit)
+                #print(commit)
             if 'Link' in commit_pg.headers:
                 if 'rel="next"' not in commit_pg.headers['Link']:
                     next = False
@@ -94,14 +103,18 @@ class Helper():
 
 
 #testing comment after use
-h = Helper()
+'''h = Helper()
 github_api = "https://api.github.com"
 h.set_org_name("CUBigDataClass")
-#print(h.get_org_information("cmodi009",github_api))
-k=h.get_repositories('cmodi009',github_api)
+#print(h.get_org_information("vishwakulkarni",github_api))
+k=h.get_repositories('vishwakulkarni',github_api)
 commits = h.commits_of_repo_github('kode-kallas','cubigdataclass',github_api)
+with open("commits.json", "w") as outfile: 
+    outfile.write(json.dumps(commits,indent=4)) 
+#print(commits[0]['stat'])
 for commit in commits:
     h.send_to_elasticInstance(commit,'commit',commit['sha'])
 #print(len(k))
 for mem in k:
     print(mem['name'])
+    #commits = h.commits_of_repo_github(mem['name'],'vishwakulkarni',github_api)'''
