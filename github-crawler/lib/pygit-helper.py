@@ -6,7 +6,7 @@ from github import Github
 # or using an access token
 g = Github("f75b46df7511241ab8481caf80994d4aab7afb68")
 
-org = g.get_organization("mozilla")
+org = g.get_organization("CUBigDataClass")
 print(org.login)
 names = org.get_members()
 repos = org.get_repos()

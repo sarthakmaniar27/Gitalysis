@@ -1,4 +1,3 @@
-
 import uuid
 from cassandra.cqlengine.columns import *
 from cassandra.cqlengine.models import Model
@@ -61,3 +60,6 @@ class Commit(Model):
     parents = List(value_type=UserDefinedType(parent_model))
     #files = List(value_type=UserDefinedType(files_model))
     stats = UserDefinedType(stats_model)
+
+
+

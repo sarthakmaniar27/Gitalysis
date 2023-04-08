@@ -16,9 +16,9 @@
             "message": "update for abtest variable instead of color",
             "tree": {
                 "sha": "3a7dcdc23fc936bc98e26a57e812b7ae57793d3c",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/3a7dcdc23fc936bc98e26a57e812b7ae57793d3c"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/3a7dcdc23fc936bc98e26a57e812b7ae57793d3c"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -27,9 +27,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/eaf17d8c38b413aa788b4851f965236fc7280506",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/eaf17d8c38b413aa788b4851f965236fc7280506",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -73,8 +73,8 @@
         "parents": [
             {
                 "sha": "2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c"
             }
         ]
     },
@@ -95,9 +95,9 @@
             "message": "add d3 nod",
             "tree": {
                 "sha": "17a6ee88d2d3a280bd303edf0151593535d826a4",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/17a6ee88d2d3a280bd303edf0151593535d826a4"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/17a6ee88d2d3a280bd303edf0151593535d826a4"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -106,9 +106,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -152,8 +152,8 @@
         "parents": [
             {
                 "sha": "64bc181e4026561a2a12651fce3afc58959545d6",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/64bc181e4026561a2a12651fce3afc58959545d6"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/64bc181e4026561a2a12651fce3afc58959545d6"
             }
         ]
     },
@@ -174,9 +174,9 @@
             "message": "add in color data to bar chart",
             "tree": {
                 "sha": "6b4639d9fdbf34eba6c38625d00b2f79ed473ec5",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/6b4639d9fdbf34eba6c38625d00b2f79ed473ec5"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/6b4639d9fdbf34eba6c38625d00b2f79ed473ec5"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/64bc181e4026561a2a12651fce3afc58959545d6",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/64bc181e4026561a2a12651fce3afc58959545d6",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -185,9 +185,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/64bc181e4026561a2a12651fce3afc58959545d6",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/64bc181e4026561a2a12651fce3afc58959545d6",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/64bc181e4026561a2a12651fce3afc58959545d6/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -231,8 +231,8 @@
         "parents": [
             {
                 "sha": "a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f"
             }
         ]
     },
@@ -253,9 +253,9 @@
             "message": "clean up and comment",
             "tree": {
                 "sha": "f94f89d7445cb123496e1ffb9ad0621cf46d7847",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/f94f89d7445cb123496e1ffb9ad0621cf46d7847"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/f94f89d7445cb123496e1ffb9ad0621cf46d7847"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -264,9 +264,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/a1ed89f132e3dcc35cc4b9aa55470fcef8bb708f/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -310,8 +310,8 @@
         "parents": [
             {
                 "sha": "3158ab9667867914cfb84618dd8060464fde0b15",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/3158ab9667867914cfb84618dd8060464fde0b15"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/3158ab9667867914cfb84618dd8060464fde0b15"
             }
         ]
     },
@@ -332,9 +332,9 @@
             "message": "responsive with hover to display percent",
             "tree": {
                 "sha": "48321b342d44ca5a029ae7e991e6d31704ef5b08",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/48321b342d44ca5a029ae7e991e6d31704ef5b08"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/48321b342d44ca5a029ae7e991e6d31704ef5b08"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/3158ab9667867914cfb84618dd8060464fde0b15",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/3158ab9667867914cfb84618dd8060464fde0b15",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -343,9 +343,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/3158ab9667867914cfb84618dd8060464fde0b15",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/3158ab9667867914cfb84618dd8060464fde0b15",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3158ab9667867914cfb84618dd8060464fde0b15/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -389,8 +389,8 @@
         "parents": [
             {
                 "sha": "0d6b90a5fe61bec036c742ab0d413285247733a5",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/0d6b90a5fe61bec036c742ab0d413285247733a5"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/0d6b90a5fe61bec036c742ab0d413285247733a5"
             }
         ]
     },
@@ -408,12 +408,12 @@
                 "email": "robert.denton9@gmail.com",
                 "date": "2014-04-24T03:00:53Z"
             },
-            "message": "Merge branch 'master' of https://github.com/mozilla/hard-decisions\n\nmerge to update file structure",
+            "message": "Merge branch 'master' of https://github.com/CUBigDataClass/hard-decisions\n\nmerge to update file structure",
             "tree": {
                 "sha": "d178869d332674ef51b802bc2adc82e029968309",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/d178869d332674ef51b802bc2adc82e029968309"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/d178869d332674ef51b802bc2adc82e029968309"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -422,9 +422,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/0d6b90a5fe61bec036c742ab0d413285247733a5",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/0d6b90a5fe61bec036c742ab0d413285247733a5",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d6b90a5fe61bec036c742ab0d413285247733a5/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -468,13 +468,13 @@
         "parents": [
             {
                 "sha": "fd07042f2a153c300752f3aa510bf2a56818678a",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/fd07042f2a153c300752f3aa510bf2a56818678a"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/fd07042f2a153c300752f3aa510bf2a56818678a"
             },
             {
                 "sha": "3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794"
             }
         ]
     },
@@ -495,9 +495,9 @@
             "message": "remove old files",
             "tree": {
                 "sha": "d178869d332674ef51b802bc2adc82e029968309",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/d178869d332674ef51b802bc2adc82e029968309"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/d178869d332674ef51b802bc2adc82e029968309"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -506,9 +506,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/fd07042f2a153c300752f3aa510bf2a56818678a",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/fd07042f2a153c300752f3aa510bf2a56818678a",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/fd07042f2a153c300752f3aa510bf2a56818678a/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -552,8 +552,8 @@
         "parents": [
             {
                 "sha": "0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec"
             }
         ]
     },
@@ -574,9 +574,9 @@
             "message": "update with hover percent instead of tooltip",
             "tree": {
                 "sha": "0d528e6d477e1560cacf528293769582910b5024",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/0d528e6d477e1560cacf528293769582910b5024"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/0d528e6d477e1560cacf528293769582910b5024"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -585,9 +585,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/0d68b3a4ca45f5e11e7f4f6c7d263c4fa60409ec/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -631,8 +631,8 @@
         "parents": [
             {
                 "sha": "689373d6beb12a591d79bd17ebbf280d0de002c7",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/689373d6beb12a591d79bd17ebbf280d0de002c7"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/689373d6beb12a591d79bd17ebbf280d0de002c7"
             }
         ]
     },
@@ -653,9 +653,9 @@
             "message": "updated d3 with tooltips and background color",
             "tree": {
                 "sha": "c398885510dc9a85caf898e31c759721904bbec2",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/c398885510dc9a85caf898e31c759721904bbec2"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/c398885510dc9a85caf898e31c759721904bbec2"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -664,9 +664,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/689373d6beb12a591d79bd17ebbf280d0de002c7",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/689373d6beb12a591d79bd17ebbf280d0de002c7",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/689373d6beb12a591d79bd17ebbf280d0de002c7/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -710,8 +710,8 @@
         "parents": [
             {
                 "sha": "937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4"
             }
         ]
     },
@@ -732,9 +732,9 @@
             "message": "Delete index.html",
             "tree": {
                 "sha": "241d2e58d03b3bb081f5c4fc2bcafcf3798057e0",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/241d2e58d03b3bb081f5c4fc2bcafcf3798057e0"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/241d2e58d03b3bb081f5c4fc2bcafcf3798057e0"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -743,9 +743,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/3b054d0a716dffa2eec43ebcc35da4b9eaf7e794/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -789,8 +789,8 @@
         "parents": [
             {
                 "sha": "dce5fcf3e1665e797344104213cc4b415d177c39",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/dce5fcf3e1665e797344104213cc4b415d177c39"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/dce5fcf3e1665e797344104213cc4b415d177c39"
             }
         ]
     },
@@ -811,9 +811,9 @@
             "message": "Delete data.json",
             "tree": {
                 "sha": "5746f725a581c17cb837e1be44c5bce5b9fd7def",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/5746f725a581c17cb837e1be44c5bce5b9fd7def"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/5746f725a581c17cb837e1be44c5bce5b9fd7def"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -822,9 +822,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/dce5fcf3e1665e797344104213cc4b415d177c39",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/dce5fcf3e1665e797344104213cc4b415d177c39",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dce5fcf3e1665e797344104213cc4b415d177c39/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -868,8 +868,8 @@
         "parents": [
             {
                 "sha": "f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5"
             }
         ]
     },
@@ -890,9 +890,9 @@
             "message": "Delete index.html",
             "tree": {
                 "sha": "42e5a2377af0d4316f6f34608159109fd74094f7",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/42e5a2377af0d4316f6f34608159109fd74094f7"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/42e5a2377af0d4316f6f34608159109fd74094f7"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -901,9 +901,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/f15c77b0095dd0ffec45d22a56ebf04c7fb175a5/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -947,8 +947,8 @@
         "parents": [
             {
                 "sha": "b0b4190d03618492764ce43d0a0a2a288ebc9c85",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/b0b4190d03618492764ce43d0a0a2a288ebc9c85"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/b0b4190d03618492764ce43d0a0a2a288ebc9c85"
             }
         ]
     },
@@ -969,9 +969,9 @@
             "message": "Delete data.json",
             "tree": {
                 "sha": "b27de7af274db206115a4091a189c078e2fcc8fa",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/b27de7af274db206115a4091a189c078e2fcc8fa"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/b27de7af274db206115a4091a189c078e2fcc8fa"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -980,9 +980,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/b0b4190d03618492764ce43d0a0a2a288ebc9c85",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/b0b4190d03618492764ce43d0a0a2a288ebc9c85/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -1026,8 +1026,8 @@
         "parents": [
             {
                 "sha": "937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4"
             }
         ]
     },
@@ -1048,9 +1048,9 @@
             "message": "fix file structure",
             "tree": {
                 "sha": "6752d16b023a61e04a35468abfce15671d5ce221",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/6752d16b023a61e04a35468abfce15671d5ce221"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/6752d16b023a61e04a35468abfce15671d5ce221"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1059,9 +1059,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/937c07ea52242ab2f22e4d78c5a76f5a27b3c9e4/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -1105,8 +1105,8 @@
         "parents": [
             {
                 "sha": "d378617271326e0348d7bab76f86594fd7d23f9b",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/d378617271326e0348d7bab76f86594fd7d23f9b"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/d378617271326e0348d7bab76f86594fd7d23f9b"
             }
         ]
     },
@@ -1127,9 +1127,9 @@
             "message": "d3 with styling for fission",
             "tree": {
                 "sha": "b1e1d8ef01f8522dcc39f57f54454bf5790f6ebd",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/b1e1d8ef01f8522dcc39f57f54454bf5790f6ebd"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/b1e1d8ef01f8522dcc39f57f54454bf5790f6ebd"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1138,9 +1138,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/d378617271326e0348d7bab76f86594fd7d23f9b",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/d378617271326e0348d7bab76f86594fd7d23f9b",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/d378617271326e0348d7bab76f86594fd7d23f9b/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -1184,8 +1184,8 @@
         "parents": [
             {
                 "sha": "5a352f14f66741dd9078100d166b5bab8755ee69",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/5a352f14f66741dd9078100d166b5bab8755ee69"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/5a352f14f66741dd9078100d166b5bab8755ee69"
             }
         ]
     },
@@ -1206,9 +1206,9 @@
             "message": "updates with hover",
             "tree": {
                 "sha": "1f88f76abcd2495c6597b94d0eaa6d941dc45f24",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/1f88f76abcd2495c6597b94d0eaa6d941dc45f24"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/1f88f76abcd2495c6597b94d0eaa6d941dc45f24"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1217,9 +1217,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/5a352f14f66741dd9078100d166b5bab8755ee69",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/5a352f14f66741dd9078100d166b5bab8755ee69",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/5a352f14f66741dd9078100d166b5bab8755ee69/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -1263,8 +1263,8 @@
         "parents": [
             {
                 "sha": "dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/dd22dd275cc20b455fe7ef445d7f0e14f050a87e"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/dd22dd275cc20b455fe7ef445d7f0e14f050a87e"
             }
         ]
     },
@@ -1285,9 +1285,9 @@
             "message": "rough cut of the initial data viz and stats. - Rob",
             "tree": {
                 "sha": "419c5925f653e72bd5247878aed814a0004df826",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/419c5925f653e72bd5247878aed814a0004df826"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/419c5925f653e72bd5247878aed814a0004df826"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1296,9 +1296,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/dd22dd275cc20b455fe7ef445d7f0e14f050a87e",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/dd22dd275cc20b455fe7ef445d7f0e14f050a87e/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -1342,8 +1342,8 @@
         "parents": [
             {
                 "sha": "db83f764b8e788e1d42b9d2405db06c36080f64b",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/db83f764b8e788e1d42b9d2405db06c36080f64b"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/db83f764b8e788e1d42b9d2405db06c36080f64b"
             }
         ]
     },
@@ -1364,9 +1364,9 @@
             "message": "Initial commit",
             "tree": {
                 "sha": "f93e3a1a1525fb5b91020da86e44810c87a2d7bc",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/f93e3a1a1525fb5b91020da86e44810c87a2d7bc"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/f93e3a1a1525fb5b91020da86e44810c87a2d7bc"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -1375,9 +1375,9 @@
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/db83f764b8e788e1d42b9d2405db06c36080f64b",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/db83f764b8e788e1d42b9d2405db06c36080f64b",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/db83f764b8e788e1d42b9d2405db06c36080f64b/comments",
         "author": null,
         "committer": null,
         "parents": []

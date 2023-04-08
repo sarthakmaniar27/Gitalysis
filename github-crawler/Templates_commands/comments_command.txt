@@ -243,9 +243,9 @@ POST comments/_doc/1
             "message": "update for abtest variable instead of color",
             "tree": {
                 "sha": "3a7dcdc23fc936bc98e26a57e812b7ae57793d3c",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/git/trees/3a7dcdc23fc936bc98e26a57e812b7ae57793d3c"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/trees/3a7dcdc23fc936bc98e26a57e812b7ae57793d3c"
             },
-            "url": "https://api.github.com/repos/mozilla/hard-decisions/git/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
+            "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/git/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
             "comment_count": 0,
             "verification": {
                 "verified": false,
@@ -254,9 +254,9 @@ POST comments/_doc/1
                 "payload": null
             }
         },
-        "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
-        "html_url": "https://github.com/mozilla/hard-decisions/commit/eaf17d8c38b413aa788b4851f965236fc7280506",
-        "comments_url": "https://api.github.com/repos/mozilla/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506/comments",
+        "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506",
+        "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/eaf17d8c38b413aa788b4851f965236fc7280506",
+        "comments_url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/eaf17d8c38b413aa788b4851f965236fc7280506/comments",
         "author": {
             "login": "robertdenton",
             "id": 4853944,
@@ -300,8 +300,8 @@ POST comments/_doc/1
         "parents": [
             {
                 "sha": "2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-                "url": "https://api.github.com/repos/mozilla/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
-                "html_url": "https://github.com/mozilla/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c"
+                "url": "https://api.github.com/repos/CUBigDataClass/hard-decisions/commits/2c7b86c6112b7f832e42ec4768fe175dd90af62c",
+                "html_url": "https://github.com/CUBigDataClass/hard-decisions/commit/2c7b86c6112b7f832e42ec4768fe175dd90af62c"
             }
         ]
     }

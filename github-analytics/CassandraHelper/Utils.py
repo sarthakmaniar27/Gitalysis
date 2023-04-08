@@ -1,3 +1,6 @@
+import requests
+from requests.auth import HTTPBasicAuth
+from CassandraHelper import config
 import json
 
 # Http get request with callback

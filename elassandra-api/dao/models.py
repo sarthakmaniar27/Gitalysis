@@ -18,8 +18,8 @@ class perm(UserType):
     admin = Boolean()
     push = Boolean()
     pull = Boolean()
-
-
+    
+    
 class own(UserType):
     login = Text(required=False)
     id = Integer(required=False)
@@ -116,3 +116,5 @@ class Repo(Model):
     default_branch = Text(required=False)
     permissions = UserDefinedType(perm)
     owner = UserDefinedType(own)
+
+

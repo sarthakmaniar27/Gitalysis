@@ -43,3 +43,6 @@ def create_tables(orgname):
     sync_table(Commit)
     sync_table(Users)
     connection.unregister_connection('default')
+
+
+# TODO: Delete below functions when everything is done

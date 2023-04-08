@@ -4,12 +4,15 @@ import lib.helper as helpp
 import csv
 
 #constants below
-OWNER = 'cmodi009'
+OWNER = 'vishwakulkarni'
 github_api = "https://api.github.com"
+
 helper = helpp.Helper()
+
 @app.route('/')
 def home_page():
     return 'Hello guys nothing here! just submit your github organization name at "/org/<orgname>"!'
+
 
 @app.route('/org/<orgname>')
 def org_parser(orgname):
@@ -49,13 +52,6 @@ def org_parser(orgname):
     print("Done!!!!!!!!!")
     return 'We got your org name ' + orgname + ' give us some time to process your request, please check server output for progress'
 
-
-    
-          
-            
-        
-    
-  
     
 if __name__ == "__main__":
     app.run(debug=True)

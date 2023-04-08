@@ -40,3 +40,7 @@ def repoRetrieve(orgname):
 @app.route('/user/<username>')
 def userRetrieve(username):
     return elasticSearchHelper.getUserData(username)
+
+
+if __name__ == '__main__':
+    app.run(host=config.FLASK_HOST, port=config.FLASK_PORT, debug=True)
