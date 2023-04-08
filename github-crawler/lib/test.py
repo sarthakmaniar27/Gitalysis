@@ -68,7 +68,7 @@ def branches_of_repo(repo, owner, api):
     return branches
 
 
-#branches = json_normalize(branches_of_repo('Social-media-impact-cryptocurrency', 'vishwakulkarni', github_api))
+#branches = json_normalize(branches_of_repo('Social-media-impact-cryptocurrency', 'cmodi009', github_api))
 
 
 #branches.to_csv('data/branches.csv')
@@ -93,7 +93,7 @@ def get_repositories_itterative(org_name,owner,api):
         break
     return repos
 #org repo fetcher
-#orgs = json_normalize(get_repositories_itterative('CUBigDataClass', 'vishwakulkarni', github_api))
+#orgs = json_normalize(get_repositories_itterative('mozilla', 'cmodi009', github_api))
 #orgs.to_csv('data/org.csv')
 
 def get_org_information(org_name,owner,api):
@@ -107,7 +107,7 @@ def send_to_elasticInstance(data,index_name,id_val):
 
 
 #getting org info
-#org_data = get_org_information('duckduckgo', 'vishwakulkarni', github_api)
+#org_data = get_org_information('duckduckgo', 'cmodi009', github_api)
 #send_to_elasticInstance(org_data,'org1',org_data['id'])
 
 #how to get documents
@@ -133,7 +133,7 @@ def get_repositories(org_name,owner,api):
 #uncomment below after testing
 '''
 #get repos and push it to elasticsearch
-org_repos = get_repositories('CUBigDataClass', 'vishwakulkarni',github_api)
+org_repos = get_repositories('mozilla', 'cmodi009',github_api)
 
 for repo in org_repos:
     repo['license']="test"
@@ -163,7 +163,7 @@ def commits_of_repo_github(repo, owner, api):
         i = i + 1
     return commits
 
-#commits = commits_of_repo_github('hard-decisions','CUBigDataClass',github_api)
+#commits = commits_of_repo_github('hard-decisions','mozilla',github_api)
 
 def add_commits_to_elasticsearch(commits):
     for commit in commits:
@@ -175,10 +175,10 @@ def add_commits_to_elasticsearch(commits):
 #   outfile.write(json.dumps(commits,indent=4)) 
 #
 
-org_repos = get_repositories('CUBigDataClass', 'vishwakulkarni',github_api)
+org_repos = get_repositories('mozilla', 'cmodi009',github_api)
 
 for repo in org_repos:
     repo['license']="test"
     #send_to_elasticInstance(repo,'repos',repo['id'])
-    commits = commits_of_repo_github(repo['name'],'CUBigDataClass',github_api)
+    commits = commits_of_repo_github(repo['name'],'mozilla',github_api)
     add_commits_to_elasticsearch(commits)

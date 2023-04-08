@@ -110,10 +110,10 @@ import csv
 #testing comment after use
 h = Helper()
 github_api = "https://api.github.com"
-h.set_org_name("CUBigDataClass")
-print(h.get_org_information("vishwakulkarni",github_api))
+h.set_org_name("mozilla")
+print(h.get_org_information("cmodi009",github_api))
 
-users = h.get_org_users('CUBigDataClass',github_api)
+users = h.get_org_users('mozilla',github_api)
 ls = {}
 for user in users:
     print(user)
@@ -122,9 +122,9 @@ for user in users:
 print(ls)
 
 csvwriter = csv.writer(open('data/balancedData4.csv', 'w'))
-#print(h.get_org_information("vishwakulkarni",github_api))
-k=h.get_repositories('vishwakulkarni',github_api)
-commits = h.commits_of_repo_github('kode-kallas','cubigdataclass',github_api)
+#print(h.get_org_information("cmodi009",github_api))
+k=h.get_repositories('cmodi009',github_api)
+commits = h.commits_of_repo_github('kode-kallas','mozilla',github_api)
 #with open("commits.json", "w") as outfile: 
 #    outfile.write(json.dumps(commits,indent=4)) 
 #print(commits[0]['stat'])
@@ -140,4 +140,4 @@ for commit in commits:
 #print(len(k))
 for mem in k:
     print(mem['name'])
-    #commits = h.commits_of_repo_github(mem['name'],'vishwakulkarni',github_api)'''
+    #commits = h.commits_of_repo_github(mem['name'],'cmodi009',github_api)'''

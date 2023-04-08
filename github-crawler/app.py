@@ -4,7 +4,7 @@ import lib.helper as helpp
 import csv
 
 #constants below
-OWNER = 'vishwakulkarni'
+OWNER = 'cmodi009'
 github_api = "https://api.github.com"
 
 helper = helpp.Helper()
