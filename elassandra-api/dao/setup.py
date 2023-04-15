@@ -6,14 +6,21 @@ from dao.config import CASSANDRA_HOSTS
 from .models import Repo
 from .commit_model import Commit
 from .user_model import Users
+from .org_model import org
+
+
 def get_session(keyspace=None):
-    # TODO: Should enable ssl: for both inter cluster and app communication P1
+
+    
+          
+            
+    
+
+          
     cluster = Cluster(CASSANDRA_HOSTS)
     session = cluster.connect(keyspace)
     return session
-
-
-# TODO: Simple vs Prepared P2
+#
 def create_repospace():
     session = get_session()
     # TODO: Replication strategy should be updated to 3
@@ -26,8 +33,6 @@ def create_repospace():
     sync_table(Repo)
     connection.unregister_connection('default')
     return
-
-
 def create_commitspace():
     session = get_session()
     # TODO: Replication strategy should be updated to 3
@@ -40,8 +45,6 @@ def create_commitspace():
     sync_table(Commit)
     connection.unregister_connection('default')
     return
-
-
 def create_userspace():
     session = get_session()
     # TODO: Replication strategy should be updated to 3
@@ -56,15 +59,23 @@ def create_userspace():
     return
 
 
-def delete_keyspace(orgname):
-
-    
-    
-    
-  
+def create_orgspace():
     session = get_session()
+    # TODO: Replication strategy should be updated to 3
     query = SimpleStatement(
-        "DROP KEYSPACE %s;" % (orgname,))
+        "CREATE KEYSPACE IF NOT EXISTS %s WITH REPLICATION = {'class': 'NetworkTopologyStrategy', 'DC1': 1};" % ("org",))
+    session.execute(query)
+    session.shutdown()
+    connection.setup(CASSANDRA_HOSTS, "org", protocol_version=3)
+    # session = get_session(orgname)
+    sync_table(org)
+    connection.unregister_connection('default')
+    return
+
+
+def delete_keyspace(orgname):
+    session = get_session()
+    query = SimpleStatement
     session.execute(query)
     session.shutdown()
 # TODO: MAke sure sessions and connections are handled properly: probably read about that
@@ -75,3 +86,4 @@ def create_tables(orgname):
     sync_table(Commit)
     sync_table(Users)
     connection.unregister_connection('default')
+# TODO: Delete below functions when everything is done
