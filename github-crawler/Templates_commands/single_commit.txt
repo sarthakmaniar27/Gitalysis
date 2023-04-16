@@ -276,12 +276,12 @@ POST commit/_doc/1
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:05Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:52Z"
             },
             "message": "sending each commit to commit elastic search",

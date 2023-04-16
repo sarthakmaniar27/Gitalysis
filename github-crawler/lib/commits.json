@@ -4,8 +4,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjlkYzlmNGVhYzMxYTQ2NWE2MzBmODhiNTY2ZjYyMmRhMDRlNmY5NTg=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-18T19:27:05Z"
             },
             "committer": {
@@ -24,29 +24,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJem1SJCRBK7hj4Ov3rIwAAdHIIACh0gzy4a2uXI+XFscF5Az+K\nddN+HopxLxAisA+LPkcgE+EG7UaNz0nK2V2+yAiWgtDyWO6cJlLEUakX/ROGN2J8\nIBfMl5XGC4R67lgkhlGD35ey0YnHk5KB9/QpduytBhj9Kr8zQUy0yuJ3cub+8XqT\nstkKSmDTuQq2mpDiOhn5nK7DAr35ZJPKrfHosQAC2Vu+lX/R8ZSVXq2BdI7UZnSr\nNQ25EuHH85dBS6UwBr2qlKOuCcGjJJC18JxHt2j1FhwscMJkAg6OJ83wdjgzt6Gu\nCDQLBrllcfkR+LxvUgQkXpvgtmeY7f42x5jeoyCTO5WXvFiNR7ndAeQVRUizhlc=\n=kOAi\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 169394be88ef27d0e19f942555f1e7484c0584fd\nparent 01cf44a28076ed9b24ed063f0f218399c350abc8\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1587238025 -0600\ncommitter GitHub <noreply@github.com> 1587238025 -0600\n\nDelete setup.py"
+                "payload": "tree 169394be88ef27d0e19f942555f1e7484c0584fd\nparent 01cf44a28076ed9b24ed063f0f218399c350abc8\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1587238025 -0600\ncommitter GitHub <noreply@github.com> 1587238025 -0600\n\nDelete setup.py"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/9dc9f4eac31a465a630f88b566f622da04e6f958",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/9dc9f4eac31a465a630f88b566f622da04e6f958",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/9dc9f4eac31a465a630f88b566f622da04e6f958/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -102,8 +102,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjAxY2Y0NGEyODA3NmVkOWIyNGVkMDYzZjBmMjE4Mzk5YzM1MGFiYzg=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-18T19:26:53Z"
             },
             "committer": {
@@ -122,29 +122,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJem1R9CRBK7hj4Ov3rIwAAdHIIAEMGwk2aHGcgXmR26HC17gMF\nwUCkc23orHRbR83B5iShMoWUKA35puKP3cIibAKUG7drBFvNSr8Ndmldd7EnO4li\ncXt/S+n8JTQoCUtDhdLIKgoW2mBQdpVT2Ok/3ZSCkf95geldyoI2c1qlaeRgtAE2\nhkaDVpCl+Y3oDZYrD+m9oyc7pb5EbpxxAl111w3ifqhWkzXHJF/LfpGw8YFKpeIg\nVPHKWg0hFFH3Gok9pDDk0uwaiwqhBFiTiFPbQyXPVnrFvEhY8QzE4La2Ti0QRGKF\ntzyNrc8+p+d7zXbf3s/qwk62cY4urShq8r3vhMSzbKGcPK4DYZW3K6nX/8n0tXk=\n=y4iA\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree e6548c8e0dc00962b059c19daa72033bc1f90ffc\nparent c01947a1e729d91b68f9323166e3e7ab88d30486\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1587238013 -0600\ncommitter GitHub <noreply@github.com> 1587238013 -0600\n\nDelete setup.py"
+                "payload": "tree e6548c8e0dc00962b059c19daa72033bc1f90ffc\nparent c01947a1e729d91b68f9323166e3e7ab88d30486\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1587238013 -0600\ncommitter GitHub <noreply@github.com> 1587238013 -0600\n\nDelete setup.py"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/01cf44a28076ed9b24ed063f0f218399c350abc8",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/01cf44a28076ed9b24ed063f0f218399c350abc8",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/01cf44a28076ed9b24ed063f0f218399c350abc8/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -200,12 +200,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmMwMTk0N2ExZTcyOWQ5MWI2OGY5MzIzMTY2ZTNlN2FiODhkMzA0ODY=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:22:29Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:22:29Z"
             },
@@ -227,42 +227,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/c01947a1e729d91b68f9323166e3e7ab88d30486",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/c01947a1e729d91b68f9323166e3e7ab88d30486/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -289,7 +289,7 @@
                 "blob_url": "https://github.com/mozilla/Kode-Kallas/blob/c01947a1e729d91b68f9323166e3e7ab88d30486/github-analytics/CassandraHelper/config.py",
                 "raw_url": "https://github.com/mozilla/Kode-Kallas/raw/c01947a1e729d91b68f9323166e3e7ab88d30486/github-analytics/CassandraHelper/config.py",
                 "contents_url": "https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-analytics/CassandraHelper/config.py?ref=c01947a1e729d91b68f9323166e3e7ab88d30486",
-                "patch": "@@ -8,4 +8,9 @@\n \n # Github Config\n GITHUB_USER = \"shreyas-gopalakrishna\"\n-GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n+\n+\n+# Others\n+\n+THREAD_COUNT = 10\n\\ No newline at end of file"
+                "patch": "@@ -8,4 +8,9 @@\n \n # Github Config\n GITHUB_USER = \"cmodi009\"\n-GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n+\n+\n+# Others\n+\n+THREAD_COUNT = 10\n\\ No newline at end of file"
             },
             {
                 "sha": "f53fa24e39ce5b4abc2f3182231f90efbfec62a2",
@@ -346,8 +346,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjU4ZDAzN2MwYzllMDM2NTFiMzIxNmFjMGEwZTUyNWFhODRiZmE5ZmQ=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-18T19:13:43Z"
             },
             "committer": {
@@ -366,29 +366,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJem1FnCRBK7hj4Ov3rIwAAdHIIAGkLJWZ9tG50F1fFO5S7pbhX\nvdYl2s9hBAMZ9wLlTzCuQK6dwKj+mtohwTptVIls1eOU26YXShYgqtgPrG+G5vp8\nSA/Qer5a8OPN8CiOBH3ZvMdakznPHaMgNQwU2E4EwiZWQ+QYtJ1idPoeZQike5Rk\nZBPMD38PbUPLhKjJLGJvlNkr5GoZM2PT6SCcOD3nilwOdIgPiyGdpDbiHOFb9bxV\ne79YBiKCJlnxA022sxiKjOeQB89ZF21GulOgasg7tB8oGVBD8k2203DObNtCa1X4\nXQasoVrdaiZKGgCAZphkAoU+UaJgm1EFtpSPc+pbjrlypH1rhDpNN8fDjje5CyA=\n=LU4R\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree ac434b4c56ec63c6b1c49114fc71b4f951387d08\nparent bddb3a7e6bcab4c0f0948f8107458d8c5d3e3f14\nparent e500cf3ea83383cf4a9c6e8522a0710a042b2785\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1587237223 -0600\ncommitter GitHub <noreply@github.com> 1587237223 -0600\n\nMerge pull request #2 from mozilla/shreyas\n\nAnalytics on collaborators, issues, languages and contributions with multithreading."
+                "payload": "tree ac434b4c56ec63c6b1c49114fc71b4f951387d08\nparent bddb3a7e6bcab4c0f0948f8107458d8c5d3e3f14\nparent e500cf3ea83383cf4a9c6e8522a0710a042b2785\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1587237223 -0600\ncommitter GitHub <noreply@github.com> 1587237223 -0600\n\nMerge pull request #2 from mozilla/shreyas\n\nAnalytics on collaborators, issues, languages and contributions with multithreading."
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/58d037c0c9e03651b3216ac0a0e525aa84bfa9fd",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/58d037c0c9e03651b3216ac0a0e525aa84bfa9fd",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/58d037c0c9e03651b3216ac0a0e525aa84bfa9fd/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -476,7 +476,7 @@
                 "blob_url": "https://github.com/mozilla/Kode-Kallas/blob/58d037c0c9e03651b3216ac0a0e525aa84bfa9fd/github-analytics/CassandraHelper/config.py",
                 "raw_url": "https://github.com/mozilla/Kode-Kallas/raw/58d037c0c9e03651b3216ac0a0e525aa84bfa9fd/github-analytics/CassandraHelper/config.py",
                 "contents_url": "https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-analytics/CassandraHelper/config.py?ref=58d037c0c9e03651b3216ac0a0e525aa84bfa9fd",
-                "patch": "@@ -1,6 +1,11 @@\n+# Cassandra Config\n CASSANDRA_HOST = 'localhost'\n CASSANDRA_PORT = 5000\n \n CASSANDRA_URL = \"http://\" + CASSANDRA_HOST + \":\" + str(CASSANDRA_PORT) + \"/\"\n \n-CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n\\ No newline at end of file\n+CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n+\n+# Github Config\n+GITHUB_USER = \"shreyas-gopalakrishna\"\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file"
+                "patch": "@@ -1,6 +1,11 @@\n+# Cassandra Config\n CASSANDRA_HOST = 'localhost'\n CASSANDRA_PORT = 5000\n \n CASSANDRA_URL = \"http://\" + CASSANDRA_HOST + \":\" + str(CASSANDRA_PORT) + \"/\"\n \n-CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n\\ No newline at end of file\n+CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n+\n+# Github Config\n+GITHUB_USER = \"cmodi009\"\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file"
             },
             {
                 "sha": "0eda6e2c71d08288d68fa6edec8496bba73e6100",
@@ -1169,12 +1169,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmU1MDBjZjNlYTgzMzgzY2Y0YTljNmU4NTIyYTA3MTBhMDQyYjI3ODU=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:06:25Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:06:25Z"
             },
@@ -1196,42 +1196,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/e500cf3ea83383cf4a9c6e8522a0710a042b2785",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/e500cf3ea83383cf4a9c6e8522a0710a042b2785/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -1373,7 +1373,7 @@
                 "blob_url": "https://github.com/mozilla/Kode-Kallas/blob/e500cf3ea83383cf4a9c6e8522a0710a042b2785/github-crawler/Templates_commands/single_commit.txt",
                 "raw_url": "https://github.com/mozilla/Kode-Kallas/raw/e500cf3ea83383cf4a9c6e8522a0710a042b2785/github-crawler/Templates_commands/single_commit.txt",
                 "contents_url": "https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/Templates_commands/single_commit.txt?ref=e500cf3ea83383cf4a9c6e8522a0710a042b2785",
-                "patch": "@@ -0,0 +1,404 @@\n+PUT commit\n+{\n+\t\"mappings\": {\n+\t\t\"properties\": {\n+\t\t\t\"sha\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"node_id\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"commit\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"author\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"committer\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"message\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"tree\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"comment_count\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"verification\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"verified\": {\n+\t\t\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"reason\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"signature\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"payload\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"html_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"comments_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"author\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"committer\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"parents\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\t\"stat\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"total\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"additions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"deletions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"files\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+          \"filename\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"status\":{\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"additions\":{\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"deletions\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"changes\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"blob_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"raw_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"contents_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t}\n+\t\t}\n+\t}\n+}\n+\n+POST commit/_doc/1\n+{\n+        \"sha\": \"8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"node_id\": \"MDY6Q29tbWl0MjM5MzczNzkxOjhkNDZmMzUxNzViMGRlYWM3NmNmYzk0MGQwZjM3YzJkMDI2NmZlYjk=\",\n+        \"commit\": {\n+            \"author\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"vishwa.kulkarni@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:05Z\"\n+            },\n+            \"committer\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"vishwa.kulkarni@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:52Z\"\n+            },\n+            \"message\": \"sending each commit to commit elastic search\",\n+            \"tree\": {\n+                \"sha\": \"d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/trees/d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\"\n+            },\n+            \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+            \"comment_count\": 0,\n+            \"verification\": {\n+                \"verified\": false,\n+                \"reason\": \"unsigned\",\n+                \"signature\": null,\n+                \"payload\": null\n+            }\n+        },\n+        \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"comments_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9/comments\",\n+        \"author\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"committer\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"parents\": [\n+            {\n+                \"sha\": \"7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/7e0ce0a9e453f38906631c18bffd2259520ccc4a\"\n+            }\n+        ],\n+        \"stats\": {\n+            \"total\": 37,\n+            \"additions\": 30,\n+            \"deletions\": 7\n+        },\n+        \"files\": [\n+            {\n+                \"sha\": \"ea825674a4ea96dfc360b8604cf348be17c77862\",\n+                \"filename\": \"github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/config.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"3d0afa90c8139736e73d85fdfc7a62ecae9e9bb9\",\n+                \"filename\": \"github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/helper.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"c53f6f839bbf8e1821f46baef596036946a02353\",\n+                \"filename\": \"github-crawler/lib/config.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 2,\n+                \"deletions\": 2,\n+                \"changes\": 4,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/config.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -1,5 +1,5 @@\\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n SQL_ALCHEMY_STRING = ''\"\n+            },\n+            {\n+                \"sha\": \"0d6d1134efc800f1e44f14e710929e09e24b9514\",\n+                \"filename\": \"github-crawler/lib/helper.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 28,\n+                \"deletions\": 5,\n+                \"changes\": 33,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/helper.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -12,9 +12,9 @@\\n from elasticsearch import Elasticsearch\\n \\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n SQL_ALCHEMY_STRING = ''\\n \\n \\n@@ -78,14 +78,37 @@ def get_org_users(self,owner,api):\\n         \\n         return members_list\\n \\n+    #save commits of repos as json\\n+    def commits_of_repo_github(self,repo, owner, api):\\n+        commits = []\\n+        next = True\\n+        i = 1\\n+        while next == True:\\n+            url = api + '/repos/{}/{}/commits?page={}&per_page=100'.format(owner, repo, i)\\n+            commit_pg = self.gh_session.get(url = url)\\n+            commit_tp = json.loads(commit_pg.content)\\n+            for commit in commit_tp:\\n+                commits.append(commit) \\n+                print(commit)\\n+            if 'Link' in commit_pg.headers:\\n+                if 'rel=\\\"next\\\"' not in commit_pg.headers['Link']:\\n+                    next = False\\n+            i = i + 1\\n+        return commits\\n+\\n+\\n \\n \\n #testing comment after use\\n h = Helper()\\n github_api = \\\"https://api.github.com\\\"\\n h.set_org_name(\\\"mozilla\\\")\\n #print(h.get_org_information(\\\"cmodi009\\\",github_api))\\n-#k=h.get_repositories('cmodi009',github_api)\\n+k=h.get_repositories('cmodi009',github_api)\\n+commits = h.commits_of_repo_github('kode-kallas','mozilla',github_api)\\n+for commit in commits:\\n+    h.send_to_elasticInstance(commit,'commit',commit['sha'])\\n #print(len(k))\\n-#for mem in k:\\n-#    print(mem['name'])\\n+for mem in k:\\n+    print(mem['name'])\\n+    #commits = h.commits_of_repo_github(mem['name'],'cmodi009',github_api)\\n\\\\ No newline at end of file\"\n+            }\n+        ]\n+    }"
+                "patch": "@@ -0,0 +1,404 @@\n+PUT commit\n+{\n+\t\"mappings\": {\n+\t\t\"properties\": {\n+\t\t\t\"sha\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"node_id\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"commit\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"author\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"committer\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"message\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"tree\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"comment_count\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"verification\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"verified\": {\n+\t\t\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"reason\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"signature\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"payload\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"html_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"comments_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"author\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"committer\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"parents\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\t\"stat\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"total\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"additions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"deletions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"files\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+          \"filename\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"status\":{\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"additions\":{\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"deletions\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"changes\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"blob_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"raw_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"contents_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t}\n+\t\t}\n+\t}\n+}\n+\n+POST commit/_doc/1\n+{\n+        \"sha\": \"8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"node_id\": \"MDY6Q29tbWl0MjM5MzczNzkxOjhkNDZmMzUxNzViMGRlYWM3NmNmYzk0MGQwZjM3YzJkMDI2NmZlYjk=\",\n+        \"commit\": {\n+            \"author\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"chintanmodi009@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:05Z\"\n+            },\n+            \"committer\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"chintanmodi009@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:52Z\"\n+            },\n+            \"message\": \"sending each commit to commit elastic search\",\n+            \"tree\": {\n+                \"sha\": \"d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/trees/d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\"\n+            },\n+            \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+            \"comment_count\": 0,\n+            \"verification\": {\n+                \"verified\": false,\n+                \"reason\": \"unsigned\",\n+                \"signature\": null,\n+                \"payload\": null\n+            }\n+        },\n+        \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"comments_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9/comments\",\n+        \"author\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"committer\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"parents\": [\n+            {\n+                \"sha\": \"7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/7e0ce0a9e453f38906631c18bffd2259520ccc4a\"\n+            }\n+        ],\n+        \"stats\": {\n+            \"total\": 37,\n+            \"additions\": 30,\n+            \"deletions\": 7\n+        },\n+        \"files\": [\n+            {\n+                \"sha\": \"ea825674a4ea96dfc360b8604cf348be17c77862\",\n+                \"filename\": \"github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/config.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"3d0afa90c8139736e73d85fdfc7a62ecae9e9bb9\",\n+                \"filename\": \"github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/helper.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"c53f6f839bbf8e1821f46baef596036946a02353\",\n+                \"filename\": \"github-crawler/lib/config.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 2,\n+                \"deletions\": 2,\n+                \"changes\": 4,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/config.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -1,5 +1,5 @@\\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n SQL_ALCHEMY_STRING = ''\"\n+            },\n+            {\n+                \"sha\": \"0d6d1134efc800f1e44f14e710929e09e24b9514\",\n+                \"filename\": \"github-crawler/lib/helper.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 28,\n+                \"deletions\": 5,\n+                \"changes\": 33,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/helper.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -12,9 +12,9 @@\\n from elasticsearch import Elasticsearch\\n \\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n SQL_ALCHEMY_STRING = ''\\n \\n \\n@@ -78,14 +78,37 @@ def get_org_users(self,owner,api):\\n         \\n         return members_list\\n \\n+    #save commits of repos as json\\n+    def commits_of_repo_github(self,repo, owner, api):\\n+        commits = []\\n+        next = True\\n+        i = 1\\n+        while next == True:\\n+            url = api + '/repos/{}/{}/commits?page={}&per_page=100'.format(owner, repo, i)\\n+            commit_pg = self.gh_session.get(url = url)\\n+            commit_tp = json.loads(commit_pg.content)\\n+            for commit in commit_tp:\\n+                commits.append(commit) \\n+                print(commit)\\n+            if 'Link' in commit_pg.headers:\\n+                if 'rel=\\\"next\\\"' not in commit_pg.headers['Link']:\\n+                    next = False\\n+            i = i + 1\\n+        return commits\\n+\\n+\\n \\n \\n #testing comment after use\\n h = Helper()\\n github_api = \\\"https://api.github.com\\\"\\n h.set_org_name(\\\"mozilla\\\")\\n #print(h.get_org_information(\\\"cmodi009\\\",github_api))\\n-#k=h.get_repositories('cmodi009',github_api)\\n+k=h.get_repositories('cmodi009',github_api)\\n+commits = h.commits_of_repo_github('kode-kallas','mozilla',github_api)\\n+for commit in commits:\\n+    h.send_to_elasticInstance(commit,'commit',commit['sha'])\\n #print(len(k))\\n-#for mem in k:\\n-#    print(mem['name'])\\n+for mem in k:\\n+    print(mem['name'])\\n+    #commits = h.commits_of_repo_github(mem['name'],'cmodi009',github_api)\\n\\\\ No newline at end of file\"\n+            }\n+        ]\n+    }"
             },
             {
                 "sha": "ee3f72b649851d53e136e9b44dbe6e9d42127767",
@@ -1427,12 +1427,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjczNGNhZGQ0Y2QzOGZkMzM0YWYwOWJhMjRmZTQ4MTk0ZDA0ZTZkNjA=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:04:50Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T19:04:50Z"
             },
@@ -1454,42 +1454,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/734cadd4cd38fd334af09ba24fe48194d04e6d60",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/734cadd4cd38fd334af09ba24fe48194d04e6d60/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -2186,12 +2186,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T18:51:49Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T18:51:49Z"
             },
             "message": "Removing .pyc files",
@@ -2382,12 +2382,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T18:49:19Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T18:49:19Z"
             },
             "message": "Updating commits with addition and deletion",
@@ -2470,7 +2470,7 @@
                 "blob_url": "https://github.com/mozilla/Kode-Kallas/blob/e73075335014adc52d52d35d24b7f00da588c4dd/github-crawler/Templates_commands/single_commit.txt",
                 "raw_url": "https://github.com/mozilla/Kode-Kallas/raw/e73075335014adc52d52d35d24b7f00da588c4dd/github-crawler/Templates_commands/single_commit.txt",
                 "contents_url": "https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/Templates_commands/single_commit.txt?ref=e73075335014adc52d52d35d24b7f00da588c4dd",
-                "patch": "@@ -0,0 +1,404 @@\n+PUT commit\n+{\n+\t\"mappings\": {\n+\t\t\"properties\": {\n+\t\t\t\"sha\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"node_id\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"commit\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"author\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"committer\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"message\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"tree\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"comment_count\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"verification\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"verified\": {\n+\t\t\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"reason\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"signature\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"payload\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"html_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"comments_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"author\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"committer\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"parents\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\t\"stat\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"total\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"additions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"deletions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"files\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+          \"filename\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"status\":{\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"additions\":{\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"deletions\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"changes\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"blob_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"raw_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"contents_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t}\n+\t\t}\n+\t}\n+}\n+\n+POST commit/_doc/1\n+{\n+        \"sha\": \"8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"node_id\": \"MDY6Q29tbWl0MjM5MzczNzkxOjhkNDZmMzUxNzViMGRlYWM3NmNmYzk0MGQwZjM3YzJkMDI2NmZlYjk=\",\n+        \"commit\": {\n+            \"author\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"vishwa.kulkarni@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:05Z\"\n+            },\n+            \"committer\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"vishwa.kulkarni@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:52Z\"\n+            },\n+            \"message\": \"sending each commit to commit elastic search\",\n+            \"tree\": {\n+                \"sha\": \"d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/trees/d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\"\n+            },\n+            \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+            \"comment_count\": 0,\n+            \"verification\": {\n+                \"verified\": false,\n+                \"reason\": \"unsigned\",\n+                \"signature\": null,\n+                \"payload\": null\n+            }\n+        },\n+        \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"comments_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9/comments\",\n+        \"author\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"committer\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"parents\": [\n+            {\n+                \"sha\": \"7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/7e0ce0a9e453f38906631c18bffd2259520ccc4a\"\n+            }\n+        ],\n+        \"stats\": {\n+            \"total\": 37,\n+            \"additions\": 30,\n+            \"deletions\": 7\n+        },\n+        \"files\": [\n+            {\n+                \"sha\": \"ea825674a4ea96dfc360b8604cf348be17c77862\",\n+                \"filename\": \"github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/config.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"3d0afa90c8139736e73d85fdfc7a62ecae9e9bb9\",\n+                \"filename\": \"github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/helper.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"c53f6f839bbf8e1821f46baef596036946a02353\",\n+                \"filename\": \"github-crawler/lib/config.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 2,\n+                \"deletions\": 2,\n+                \"changes\": 4,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/config.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -1,5 +1,5 @@\\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n SQL_ALCHEMY_STRING = ''\"\n+            },\n+            {\n+                \"sha\": \"0d6d1134efc800f1e44f14e710929e09e24b9514\",\n+                \"filename\": \"github-crawler/lib/helper.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 28,\n+                \"deletions\": 5,\n+                \"changes\": 33,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/helper.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -12,9 +12,9 @@\\n from elasticsearch import Elasticsearch\\n \\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n SQL_ALCHEMY_STRING = ''\\n \\n \\n@@ -78,14 +78,37 @@ def get_org_users(self,owner,api):\\n         \\n         return members_list\\n \\n+    #save commits of repos as json\\n+    def commits_of_repo_github(self,repo, owner, api):\\n+        commits = []\\n+        next = True\\n+        i = 1\\n+        while next == True:\\n+            url = api + '/repos/{}/{}/commits?page={}&per_page=100'.format(owner, repo, i)\\n+            commit_pg = self.gh_session.get(url = url)\\n+            commit_tp = json.loads(commit_pg.content)\\n+            for commit in commit_tp:\\n+                commits.append(commit) \\n+                print(commit)\\n+            if 'Link' in commit_pg.headers:\\n+                if 'rel=\\\"next\\\"' not in commit_pg.headers['Link']:\\n+                    next = False\\n+            i = i + 1\\n+        return commits\\n+\\n+\\n \\n \\n #testing comment after use\\n h = Helper()\\n github_api = \\\"https://api.github.com\\\"\\n h.set_org_name(\\\"mozilla\\\")\\n #print(h.get_org_information(\\\"cmodi009\\\",github_api))\\n-#k=h.get_repositories('cmodi009',github_api)\\n+k=h.get_repositories('cmodi009',github_api)\\n+commits = h.commits_of_repo_github('kode-kallas','mozilla',github_api)\\n+for commit in commits:\\n+    h.send_to_elasticInstance(commit,'commit',commit['sha'])\\n #print(len(k))\\n-#for mem in k:\\n-#    print(mem['name'])\\n+for mem in k:\\n+    print(mem['name'])\\n+    #commits = h.commits_of_repo_github(mem['name'],'cmodi009',github_api)\\n\\\\ No newline at end of file\"\n+            }\n+        ]\n+    }"
+                "patch": "@@ -0,0 +1,404 @@\n+PUT commit\n+{\n+\t\"mappings\": {\n+\t\t\"properties\": {\n+\t\t\t\"sha\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"node_id\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"commit\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"author\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"committer\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"name\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"email\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"date\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"message\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"tree\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"comment_count\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"verification\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"verified\": {\n+\t\t\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"reason\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"signature\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"payload\": {\n+\t\t\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"html_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"comments_url\": {\n+\t\t\t\t\"type\": \"keyword\"\n+\t\t\t},\n+\t\t\t\"author\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"committer\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"login\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"id\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"node_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"avatar_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gravatar_id\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"followers_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"following_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"gists_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"starred_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"subscriptions_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"organizations_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"repos_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"received_events_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"type\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"site_admin\": {\n+\t\t\t\t\t\t\"type\": \"boolean\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\"parents\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+\t\t\t\t\t\"html_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t},\n+\t\t\t\t\"stat\": {\n+\t\t\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\t\t\"properties\": {\n+\t\t\t\t\t\t\t\"total\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"additions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t},\n+\t\t\t\t\t\t\t\"deletions\": {\n+\t\t\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t\t\t}\n+\t\t\t\t\t\t}\n+\t\t\t\t\t},\n+\t\t\t\t\t\"files\": {\n+\t\t\t\t\"type\": \"object\",\n+\t\t\t\t\"properties\": {\n+\t\t\t\t\t\"sha\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+          \"filename\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"status\":{\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"additions\":{\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"deletions\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"changes\": {\n+\t\t\t\t\t\t\"type\": \"long\"\n+\t\t\t\t\t},\n+                \"blob_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"raw_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t},\n+                \"contents_url\": {\n+\t\t\t\t\t\t\"type\": \"keyword\"\n+\t\t\t\t\t}\n+\t\t\t\t}\n+\t\t\t}\n+\t\t}\n+\t}\n+}\n+\n+POST commit/_doc/1\n+{\n+        \"sha\": \"8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"node_id\": \"MDY6Q29tbWl0MjM5MzczNzkxOjhkNDZmMzUxNzViMGRlYWM3NmNmYzk0MGQwZjM3YzJkMDI2NmZlYjk=\",\n+        \"commit\": {\n+            \"author\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"chintanmodi009@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:05Z\"\n+            },\n+            \"committer\": {\n+                \"name\": \"cmodi009\",\n+                \"email\": \"chintanmodi009@gmail.com\",\n+                \"date\": \"2020-04-17T23:43:52Z\"\n+            },\n+            \"message\": \"sending each commit to commit elastic search\",\n+            \"tree\": {\n+                \"sha\": \"d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/trees/d63d8d00bddbeeeb34c68395dee3e2a8b3b9fe2e\"\n+            },\n+            \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/git/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+            \"comment_count\": 0,\n+            \"verification\": {\n+                \"verified\": false,\n+                \"reason\": \"unsigned\",\n+                \"signature\": null,\n+                \"payload\": null\n+            }\n+        },\n+        \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+        \"comments_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/8d46f35175b0deac76cfc940d0f37c2d0266feb9/comments\",\n+        \"author\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"committer\": {\n+            \"login\": \"cmodi009\",\n+            \"id\": 5782419,\n+            \"node_id\": \"MDQ6VXNlcjU3ODI0MTk=\",\n+            \"avatar_url\": \"https://avatars2.githubusercontent.com/u/5782419?v=4\",\n+            \"gravatar_id\": \"\",\n+            \"url\": \"https://api.github.com/users/cmodi009\",\n+            \"html_url\": \"https://github.com/cmodi009\",\n+            \"followers_url\": \"https://api.github.com/users/cmodi009/followers\",\n+            \"following_url\": \"https://api.github.com/users/cmodi009/following{/other_user}\",\n+            \"gists_url\": \"https://api.github.com/users/cmodi009/gists{/gist_id}\",\n+            \"starred_url\": \"https://api.github.com/users/cmodi009/starred{/owner}{/repo}\",\n+            \"subscriptions_url\": \"https://api.github.com/users/cmodi009/subscriptions\",\n+            \"organizations_url\": \"https://api.github.com/users/cmodi009/orgs\",\n+            \"repos_url\": \"https://api.github.com/users/cmodi009/repos\",\n+            \"events_url\": \"https://api.github.com/users/cmodi009/events{/privacy}\",\n+            \"received_events_url\": \"https://api.github.com/users/cmodi009/received_events\",\n+            \"type\": \"User\",\n+            \"site_admin\": false\n+        },\n+        \"parents\": [\n+            {\n+                \"sha\": \"7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a\",\n+                \"html_url\": \"https://github.com/mozilla/Kode-Kallas/commit/7e0ce0a9e453f38906631c18bffd2259520ccc4a\"\n+            }\n+        ],\n+        \"stats\": {\n+            \"total\": 37,\n+            \"additions\": 30,\n+            \"deletions\": 7\n+        },\n+        \"files\": [\n+            {\n+                \"sha\": \"ea825674a4ea96dfc360b8604cf348be17c77862\",\n+                \"filename\": \"github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/config.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/config.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"3d0afa90c8139736e73d85fdfc7a62ecae9e9bb9\",\n+                \"filename\": \"github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"status\": \"modified\",\n+                \"additions\": 0,\n+                \"deletions\": 0,\n+                \"changes\": 0,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/__pycache__/helper.cpython-37.pyc\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/__pycache__/helper.cpython-37.pyc?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\"\n+            },\n+            {\n+                \"sha\": \"c53f6f839bbf8e1821f46baef596036946a02353\",\n+                \"filename\": \"github-crawler/lib/config.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 2,\n+                \"deletions\": 2,\n+                \"changes\": 4,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/config.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/config.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -1,5 +1,5 @@\\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'f75b46df7511241ab8481caf80994d4aab7afb68'\\n+GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n SQL_ALCHEMY_STRING = ''\"\n+            },\n+            {\n+                \"sha\": \"0d6d1134efc800f1e44f14e710929e09e24b9514\",\n+                \"filename\": \"github-crawler/lib/helper.py\",\n+                \"status\": \"modified\",\n+                \"additions\": 28,\n+                \"deletions\": 5,\n+                \"changes\": 33,\n+                \"blob_url\": \"https://github.com/mozilla/Kode-Kallas/blob/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"raw_url\": \"https://github.com/mozilla/Kode-Kallas/raw/8d46f35175b0deac76cfc940d0f37c2d0266feb9/github-crawler/lib/helper.py\",\n+                \"contents_url\": \"https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-crawler/lib/helper.py?ref=8d46f35175b0deac76cfc940d0f37c2d0266feb9\",\n+                \"patch\": \"@@ -12,9 +12,9 @@\\n from elasticsearch import Elasticsearch\\n \\n GITEA_APP_URL = 'YOUR_GITEA_API'\\n-GITEA_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITEA_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n GITHUB_USERNAME = 'cmodi009'\\n-GITHUB_TOKEN = 'd625eacdf998ccb9b131cf51a7e769358784a546'\\n+GITHUB_TOKEN = 'aff8945f859b696bf05932045f0be7e1b8379ddb'\\n SQL_ALCHEMY_STRING = ''\\n \\n \\n@@ -78,14 +78,37 @@ def get_org_users(self,owner,api):\\n         \\n         return members_list\\n \\n+    #save commits of repos as json\\n+    def commits_of_repo_github(self,repo, owner, api):\\n+        commits = []\\n+        next = True\\n+        i = 1\\n+        while next == True:\\n+            url = api + '/repos/{}/{}/commits?page={}&per_page=100'.format(owner, repo, i)\\n+            commit_pg = self.gh_session.get(url = url)\\n+            commit_tp = json.loads(commit_pg.content)\\n+            for commit in commit_tp:\\n+                commits.append(commit) \\n+                print(commit)\\n+            if 'Link' in commit_pg.headers:\\n+                if 'rel=\\\"next\\\"' not in commit_pg.headers['Link']:\\n+                    next = False\\n+            i = i + 1\\n+        return commits\\n+\\n+\\n \\n \\n #testing comment after use\\n h = Helper()\\n github_api = \\\"https://api.github.com\\\"\\n h.set_org_name(\\\"mozilla\\\")\\n #print(h.get_org_information(\\\"cmodi009\\\",github_api))\\n-#k=h.get_repositories('cmodi009',github_api)\\n+k=h.get_repositories('cmodi009',github_api)\\n+commits = h.commits_of_repo_github('kode-kallas','mozilla',github_api)\\n+for commit in commits:\\n+    h.send_to_elasticInstance(commit,'commit',commit['sha'])\\n #print(len(k))\\n-#for mem in k:\\n-#    print(mem['name'])\\n+for mem in k:\\n+    print(mem['name'])\\n+    #commits = h.commits_of_repo_github(mem['name'],'cmodi009',github_api)\\n\\\\ No newline at end of file\"\n+            }\n+        ]\n+    }"
             },
             {
                 "sha": "ee3f72b649851d53e136e9b44dbe6e9d42127767",
@@ -2524,12 +2524,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjM0NTEwZjNkZThkMTI3MWZhM2MwMDhjYmQ0ZjI2ODAwODMzOTNjM2M=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T09:41:22Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T09:41:22Z"
             },
@@ -2551,42 +2551,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/34510f3de8d1271fa3c008cbd4f2680083393c3c",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/34510f3de8d1271fa3c008cbd4f2680083393c3c/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -2673,12 +2673,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjQxZWMxMzcxMzhlMTkyNWRmMzdmMzEyYjAzOWFiOWJmODhlMDlhM2Y=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T09:37:58Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-18T09:37:58Z"
             },
@@ -2700,42 +2700,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/41ec137138e1925df37f312b039ab9bf88e09a3f",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/41ec137138e1925df37f312b039ab9bf88e09a3f/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -2798,7 +2798,7 @@
                 "blob_url": "https://github.com/mozilla/Kode-Kallas/blob/41ec137138e1925df37f312b039ab9bf88e09a3f/github-analytics/CassandraHelper/config.py",
                 "raw_url": "https://github.com/mozilla/Kode-Kallas/raw/41ec137138e1925df37f312b039ab9bf88e09a3f/github-analytics/CassandraHelper/config.py",
                 "contents_url": "https://api.github.com/repos/mozilla/Kode-Kallas/contents/github-analytics/CassandraHelper/config.py?ref=41ec137138e1925df37f312b039ab9bf88e09a3f",
-                "patch": "@@ -1,6 +1,11 @@\n+# Cassandra Config\n CASSANDRA_HOST = 'localhost'\n CASSANDRA_PORT = 5000\n \n CASSANDRA_URL = \"http://\" + CASSANDRA_HOST + \":\" + str(CASSANDRA_PORT) + \"/\"\n \n-CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n\\ No newline at end of file\n+CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n+\n+# Github Config\n+GITHUB_USER = \"shreyas-gopalakrishna\"\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file"
+                "patch": "@@ -1,6 +1,11 @@\n+# Cassandra Config\n CASSANDRA_HOST = 'localhost'\n CASSANDRA_PORT = 5000\n \n CASSANDRA_URL = \"http://\" + CASSANDRA_HOST + \":\" + str(CASSANDRA_PORT) + \"/\"\n \n-CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n\\ No newline at end of file\n+CASSANDRA_URL_INSERT = CASSANDRA_URL + \"insert/\"\n+\n+# Github Config\n+GITHUB_USER = \"cmodi009\"\n+GITHUB_TOKEN = \"f02831928492a6bfe9f1bca49693f69d1d0e44b3\"\n\\ No newline at end of file"
             },
             {
                 "sha": "0eda6e2c71d08288d68fa6edec8496bba73e6100",
@@ -2844,12 +2844,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:46Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:52Z"
             },
             "message": "sending each commit to commit elastic search with server",
@@ -2942,12 +2942,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:05Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T23:43:52Z"
             },
             "message": "sending each commit to commit elastic search",
@@ -3073,8 +3073,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjdlMGNlMGE5ZTQ1M2YzODkwNjYzMWMxOGJmZmQyMjU5NTIwY2NjNGE=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-17T06:56:43Z"
             },
             "committer": {
@@ -3093,29 +3093,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJemVMrCRBK7hj4Ov3rIwAAdHIIAEvOY1eRUQHRBsh+Nj1MBV6b\nQfPdoPwjfzxfDzD4ZDZ5JRzWIfOh8LUfM8kUsjkYCy0C4wk4gm+dM9CJfNPQ4w8E\nuWiVlW3BaAAiIF9XGimHIHdeTdafnoJtv0Xl+0dBGdbsasm+U6zUhR0hJih/QXVp\nxHt0NJdJmRwYlNZbLWrnuXIisydhHqBg/MdlbY7QisbOyu0Mp2xwb7Bv9gQA755D\nzZU6VyTc7yBjzsQgbdkgZ8GB+6lUmS6AkqpRxZjYtIt7uV3dz3fgs/GTVn/hfR8J\n1T2EC1PZoukT1Wqv1U26p4f/iK42X5Sw+oKf8yIg3o7SmI37woaxhiJTD29/4vg=\n=4p6n\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree f7e0d59fbca9cfc15f1e37a50bc2a12dbbd05d24\nparent 30850ae4ad0775bd9539242457173e7d8f32d4f2\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1587106603 -0600\ncommitter GitHub <noreply@github.com> 1587106603 -0600\n\nDelete .DS_Store"
+                "payload": "tree f7e0d59fbca9cfc15f1e37a50bc2a12dbbd05d24\nparent 30850ae4ad0775bd9539242457173e7d8f32d4f2\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1587106603 -0600\ncommitter GitHub <noreply@github.com> 1587106603 -0600\n\nDelete .DS_Store"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/7e0ce0a9e453f38906631c18bffd2259520ccc4a",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/7e0ce0a9e453f38906631c18bffd2259520ccc4a/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -3170,8 +3170,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjMwODUwYWU0YWQwNzc1YmQ5NTM5MjQyNDU3MTczZTdkOGYzMmQ0ZjI=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-17T06:56:27Z"
             },
             "committer": {
@@ -3190,29 +3190,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJemVMbCRBK7hj4Ov3rIwAAdHIIAEU6w+EX4mSw0K9GzYw+gABX\nrS5kXVFRaJS0I1wi7wnm86FAM7MwjPNY/OusereM4Ig9oMkRdyA0jGqC9EYbfltE\nGcPx7ZzqUfPBLJ/9hBIEUDjX2G5vRyDJUjcjkWbwKnV+tCXwkpWHefubd7QH+5J3\n081HTFdfkD3kNZGDYPQrjjZJQkVPky0OFXBMk70GJuJOGNrsvt+2jexyejFJ51Q0\nxM2ZQqgFuAODyrvkpdqwItJX77JG/1U274S1DNfrHL3BaSqfDpSLkD4Zh5o2X+2I\nZe328IUEmTWva9KSEu7xvy19q4D87yaxHdBNvE0qa8uR+cSb69ThEmxjBflsp7A=\n=qbQT\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 22d40e6a84ffb1a0826f09ae607995bcc6bc21ee\nparent eeadb6f5ae4e83f010ce9dba92fb125ffb51c606\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1587106587 -0600\ncommitter GitHub <noreply@github.com> 1587106587 -0600\n\nDelete .DS_Store"
+                "payload": "tree 22d40e6a84ffb1a0826f09ae607995bcc6bc21ee\nparent eeadb6f5ae4e83f010ce9dba92fb125ffb51c606\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1587106587 -0600\ncommitter GitHub <noreply@github.com> 1587106587 -0600\n\nDelete .DS_Store"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/30850ae4ad0775bd9539242457173e7d8f32d4f2",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/30850ae4ad0775bd9539242457173e7d8f32d4f2",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/30850ae4ad0775bd9539242457173e7d8f32d4f2/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -3267,12 +3267,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmVlYWRiNmY1YWU0ZTgzZjAxMGNlOWRiYTkyZmIxMjVmZmI1MWM2MDY=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-17T05:52:25Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-17T05:52:25Z"
             },
@@ -3294,42 +3294,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/eeadb6f5ae4e83f010ce9dba92fb125ffb51c606",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/eeadb6f5ae4e83f010ce9dba92fb125ffb51c606/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -3566,12 +3566,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmI2YWE0MjRiY2YwOTU3NTFkYzE1YmM2NjczNzQwMGRlMTczZGZlNjA=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-17T05:51:34Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-17T05:51:34Z"
             },
@@ -3593,42 +3593,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/b6aa424bcf095751dc15bc66737400de173dfe60",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/b6aa424bcf095751dc15bc66737400de173dfe60/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -4659,12 +4659,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjMxMTUzZmViODA2YWU0YjRlZTEyYjNlYjU5MmRlMjAzNTVmNzU2MWU=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T07:50:05Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T07:50:05Z"
             },
@@ -4686,42 +4686,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/31153feb806ae4b4ee12b3eb592de20355f7561e",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/31153feb806ae4b4ee12b3eb592de20355f7561e/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -4944,12 +4944,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjUwNDE0NjVmMzNmNjc5ODFhZWIyOTdmNjBjOTg1NDE0YWMzNDQ4MWY=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T07:49:46Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T07:49:46Z"
             },
@@ -4971,42 +4971,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/5041465f33f67981aeb297f60c985414ac34481f",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/5041465f33f67981aeb297f60c985414ac34481f/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -5598,12 +5598,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmYzMTJkYzEwNTcxZGRjMTljZGZhYWE5OGVkZGE3ZjZkYjY0MzJhZWU=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T05:33:23Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-16T05:33:23Z"
             },
@@ -5625,42 +5625,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/f312dc10571ddc19cdfaaa98edda7f6db6432aee",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/f312dc10571ddc19cdfaaa98edda7f6db6432aee/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -7740,12 +7740,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T16:49:50Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T16:49:50Z"
             },
             "message": "Updating key",
@@ -7850,12 +7850,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T15:28:09Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T15:28:09Z"
             },
             "message": "Adding Users info to ealstic search along with user cammand",
@@ -7995,12 +7995,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T13:29:25Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T13:29:25Z"
             },
             "message": "Fixing Org issue",
@@ -8138,8 +8138,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjVkMDRjNzk5YzViNGRlOGE4ZjBkNjI5MDk2OTY3ZDMyOTVmY2ZhMjc=",
         "commit": {
             "author": {
-                "name": "Vishwanath Kulkarni",
-                "email": "vishwa.kulkarni@gmail.com",
+                "name": "Chintan Modi",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T12:34:23Z"
             },
             "committer": {
@@ -8158,7 +8158,7 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJelv9PCRBK7hj4Ov3rIwAAdHIIAJpPt6BlSMelcofAVj0RRtlv\naxYxGsHc1Z7Q9UGQOSttyu97kt1DDrDctci6kumg3NjUDBtkwadTFjjtdQFlKYfe\n2zU3gOAUxWh9TOhUZPXEO864s5+0wD86B5CAlRc9hc8N721d3ccm3fk//Hjld1eA\ntjEeIvBY/uu3AT71ziy6kwLlXOZYel5xXABbReQwjQro5C1S4MoLu2h9EJk9oaLA\nYk78gC5BCE3xGAt4ziq/Cqi2NdqGKegIC234CChkA9d9PZzYlEgsusuzIdBi+q5r\nx79TgRt7pG1z2VVSXsB4BzEkNHV/tt4yZV9XeVyBHk/s4zY5c2592PfZfq2hKco=\n=Ts4a\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree eda9db3aa07850beda2c8ad4a7b0f5bea28edbcd\nparent 478ee8b174d1080daecd18a129dd007f9654398c\nauthor Vishwanath Kulkarni <vishwa.kulkarni@gmail.com> 1586954063 -0600\ncommitter GitHub <noreply@github.com> 1586954063 -0600\n\nFixing ReadMe errors"
+                "payload": "tree eda9db3aa07850beda2c8ad4a7b0f5bea28edbcd\nparent 478ee8b174d1080daecd18a129dd007f9654398c\nauthor Chintan Modi <chintanmodi009@gmail.com> 1586954063 -0600\ncommitter GitHub <noreply@github.com> 1586954063 -0600\n\nFixing ReadMe errors"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/5d04c799c5b4de8a8f0d629096967d3295fcfa27",
@@ -8236,12 +8236,12 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjQ3OGVlOGIxNzRkMTA4MGRhZWNkMThhMTI5ZGQwMDdmOTY1NDM5OGM=",
         "commit": {
             "author": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-15T05:40:08Z"
             },
             "committer": {
-                "name": "shreyas-gopalakrishna",
+                "name": "cmodi009",
                 "email": "shreyas.g.krishna@gmail.com",
                 "date": "2020-04-15T05:40:08Z"
             },
@@ -8263,42 +8263,42 @@
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/478ee8b174d1080daecd18a129dd007f9654398c",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/478ee8b174d1080daecd18a129dd007f9654398c/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
         "committer": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -8718,8 +8718,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjM4OGUwOTk4NjY1ODZkMmJlOGE3NDg1NWNlMmQwNjUzYjYxNmI5YWU=",
         "commit": {
             "author": {
-                "name": "Vishwanath Kulkarni",
-                "email": "vishwa.kulkarni@gmail.com",
+                "name": "Chintan Modi",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T02:14:45Z"
             },
             "committer": {
@@ -8738,7 +8738,7 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJelRyVCRBK7hj4Ov3rIwAAdHIIAEGwH6F2fRAhDSPjbrb0lrJW\nNq6CdClrrUh2P/hLhqAaj8HDaWLNG4kRKGiAmsTD2qd4TzT2yFIXYzv3JHivMmyr\nnYvl2OJeaAwf8TEBgQeV+tcuXbqXEg3r8eokXTjZvQwZUoHxK9M7yWRG5GJU7jTH\npfwt15yoIHXjm1wAKu7I+CP1eoCkycM4ApQ8pmdWDBn5ncwc2lRSgXWrD5aOiaXq\nD5srVhPgj5EzO56aMtnbT/pAh85M2CTA4dwAgB4s4/GdPhdR1QEwIw+Y5bwdg44v\nTDinA5hBpo6k8pyiCJnPDdMwC9QaNpLTREEC5Sf+9eq8p2XDr3BYDtlSN7Ctxp0=\n=6gua\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree b6d7d22eb0d24086f4518a24adf1e759eba61f21\nparent c2ad3aabb42a2ea3b9634895671eeecdd52ade07\nauthor Vishwanath Kulkarni <vishwa.kulkarni@gmail.com> 1586830485 -0600\ncommitter GitHub <noreply@github.com> 1586830485 -0600\n\nFixing missed commands"
+                "payload": "tree b6d7d22eb0d24086f4518a24adf1e759eba61f21\nparent c2ad3aabb42a2ea3b9634895671eeecdd52ade07\nauthor Chintan Modi <chintanmodi009@gmail.com> 1586830485 -0600\ncommitter GitHub <noreply@github.com> 1586830485 -0600\n\nFixing missed commands"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/388e099866586d2be8a74855ce2d0653b616b9ae",
@@ -8816,8 +8816,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmMyYWQzYWFiYjQyYTJlYTNiOTYzNDg5NTY3MWVlZWNkZDUyYWRlMDc=",
         "commit": {
             "author": {
-                "name": "Shreyas Gopalakrishna",
-                "email": "11889130+shreyas-gopalakrishna@users.noreply.github.com",
+                "name": "Chintan Modi",
+                "email": "11889130+cmodi009@users.noreply.github.com",
                 "date": "2020-04-14T01:55:12Z"
             },
             "committer": {
@@ -8836,29 +8836,29 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJelRgACRBK7hj4Ov3rIwAAdHIIADDB0YpVvVXnKH9mO7PYAAoD\n5CwMRZ4yYNRGcaiGVUURU3ApCDnOUblPqxJIohPd8eE5+3N2EowuOcYJNvN+z99W\nJiTtLeIOSQRK+a5YcXg11vZTvH6d0pDtFZh9++FqwLC/tvBInZi441FKGEn7FSjC\nmT7TIBIrsrwki3oyrpFjkNah48o5xnUzLVH4XioQ82cZUBmm743FCkoq0iD50iaZ\nnQgQ+8SXhFDLzOaVpTI7xmAhJ6Z6LMoZbAnmTz/ZmuFIx3epcQqbaooKYA9thx/F\nIOPIDp07sTahC6dXnfp0hsUvQth+NC8cSuINN64vu5mW+N92xCH93G28JTLEItE=\n=eKL/\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 21463e7dfd5158a18d4b738398327ae52b1a519c\nparent 22a8099706695cc5df11c70174284207fe818b7b\nauthor Shreyas Gopalakrishna <11889130+shreyas-gopalakrishna@users.noreply.github.com> 1586829312 -0600\ncommitter GitHub <noreply@github.com> 1586829312 -0600\n\nUpdated Documentation\n\nUpdated Documentation to include missing commands for elastic search and kibana setup in Docker."
+                "payload": "tree 21463e7dfd5158a18d4b738398327ae52b1a519c\nparent 22a8099706695cc5df11c70174284207fe818b7b\nauthor Chintan Modi <11889130+cmodi009@users.noreply.github.com> 1586829312 -0600\ncommitter GitHub <noreply@github.com> 1586829312 -0600\n\nUpdated Documentation\n\nUpdated Documentation to include missing commands for elastic search and kibana setup in Docker."
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/c2ad3aabb42a2ea3b9634895671eeecdd52ade07",
         "html_url": "https://github.com/mozilla/Kode-Kallas/commit/c2ad3aabb42a2ea3b9634895671eeecdd52ade07",
         "comments_url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/c2ad3aabb42a2ea3b9634895671eeecdd52ade07/comments",
         "author": {
-            "login": "shreyas-gopalakrishna",
+            "login": "cmodi009",
             "id": 11889130,
             "node_id": "MDQ6VXNlcjExODg5MTMw",
             "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shreyas-gopalakrishna",
-            "html_url": "https://github.com/shreyas-gopalakrishna",
-            "followers_url": "https://api.github.com/users/shreyas-gopalakrishna/followers",
-            "following_url": "https://api.github.com/users/shreyas-gopalakrishna/following{/other_user}",
-            "gists_url": "https://api.github.com/users/shreyas-gopalakrishna/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/shreyas-gopalakrishna/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/shreyas-gopalakrishna/subscriptions",
-            "organizations_url": "https://api.github.com/users/shreyas-gopalakrishna/orgs",
-            "repos_url": "https://api.github.com/users/shreyas-gopalakrishna/repos",
-            "events_url": "https://api.github.com/users/shreyas-gopalakrishna/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/shreyas-gopalakrishna/received_events",
+            "url": "https://api.github.com/users/cmodi009",
+            "html_url": "https://github.com/cmodi009",
+            "followers_url": "https://api.github.com/users/cmodi009/followers",
+            "following_url": "https://api.github.com/users/cmodi009/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cmodi009/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/cmodi009/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cmodi009/subscriptions",
+            "organizations_url": "https://api.github.com/users/cmodi009/orgs",
+            "repos_url": "https://api.github.com/users/cmodi009/repos",
+            "events_url": "https://api.github.com/users/cmodi009/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/cmodi009/received_events",
             "type": "User",
             "site_admin": false
         },
@@ -8915,12 +8915,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T01:44:46Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T01:44:46Z"
             },
             "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
@@ -9018,12 +9018,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T01:44:42Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T01:44:42Z"
             },
             "message": "adding put command",
@@ -9127,8 +9127,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOjUwMzFmY2I2ODg5YWNiYmNiOWMxNTg0NTlhYTlkMjliNjZkYmNhNDM=",
         "commit": {
             "author": {
-                "name": "Vishwanath Kulkarni",
-                "email": "vishwa.kulkarni@gmail.com",
+                "name": "Chintan Modi",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-14T01:39:49Z"
             },
             "committer": {
@@ -9147,7 +9147,7 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJelRRlCRBK7hj4Ov3rIwAAdHIIAC9rz6aclmho2VXmSXshzyU3\nm/9LgtKp1FmicAHwkX1oU35QdgfiZZw0kVOBW3ucwfx1/JFjSs/2pNFdi55ak35y\nNFXSctAXS3wNi0yK3aRT4TnEsIb/exfRRBE2Mw32Flfv480uvlhDZqIaEbd2am+/\n4VeQh7xQUtzlJon8+ztu1BWQZgilhSiwTJEhCJhqBFAGaveHO0nkmiqZj90Qv6hN\nr+Sb4gD78itwI+ZreG1P9AgMypeWO49VuxmpWqaUiTnRB4QBXFzTMTbznmB/SuDi\nJO6MwmNk6KW+zQhzKtIkU3heXyKrXZJ4JfpSuTVoTJUsU0nn+5leDHPLPqUS+z8=\n=uJ5n\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree c8c2f3f9eb116bd27430a20edcbfd14425a539aa\nparent ce97c57d4715385fcc1ce221a4e491c8bfdd172b\nauthor Vishwanath Kulkarni <vishwa.kulkarni@gmail.com> 1586828389 -0600\ncommitter GitHub <noreply@github.com> 1586828389 -0600\n\nCommands for starting and stopping docker images"
+                "payload": "tree c8c2f3f9eb116bd27430a20edcbfd14425a539aa\nparent ce97c57d4715385fcc1ce221a4e491c8bfdd172b\nauthor Chintan Modi <chintanmodi009@gmail.com> 1586828389 -0600\ncommitter GitHub <noreply@github.com> 1586828389 -0600\n\nCommands for starting and stopping docker images"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/5031fcb6889acbbcb9c158459aa9d29b66dbca43",
@@ -9225,8 +9225,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmNlOTdjNTdkNDcxNTM4NWZjYzFjZTIyMWE0ZTQ5MWM4YmZkZDE3MmI=",
         "commit": {
             "author": {
-                "name": "Vishwanath Kulkarni",
-                "email": "vishwa.kulkarni@gmail.com",
+                "name": "Chintan Modi",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-12T05:08:36Z"
             },
             "committer": {
@@ -9245,7 +9245,7 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJekqJUCRBK7hj4Ov3rIwAAdHIIABZv5kHFD8OZPElq5hDDwU37\nyOUY3Knela1VKoYN+m8rrtUWV1ayQ2BRjWBmB1yiOhlRPKLSmciWYLUBUWvi/OG9\nkZ2NgZqumRufeRim28XDvGS5fnRZI3F0pXnbvUSzwFswm5opCE/VYtLJT3EDLCOa\n4cRFWjFyUym0aM/LIXcimhEUppjUwVVwvakj77PvWDkFVPTUg0uJHHmvlxVWQfl2\ng1Ide1VU09MpmhmADHQxGO448MITXjoOopOmDRFRDKwvwgW4y3Yn5cRsl6m/5cLQ\ndKWR9pTYLjch8zQVUHlvUf8x73rOONhp1eVja51qZemYcnFrY2pSclGpp4h57Yw=\n=oAe4\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 773deca7cdf0da38abc22d8fae0b7ef3681ef668\nparent c5b3c5970d059e8081a0d84de3ca408be2e8f55d\nauthor Vishwanath Kulkarni <vishwa.kulkarni@gmail.com> 1586668116 -0600\ncommitter GitHub <noreply@github.com> 1586668116 -0600\n\nAdding Documentation for ElasticSearch instance setup"
+                "payload": "tree 773deca7cdf0da38abc22d8fae0b7ef3681ef668\nparent c5b3c5970d059e8081a0d84de3ca408be2e8f55d\nauthor Chintan Modi <chintanmodi009@gmail.com> 1586668116 -0600\ncommitter GitHub <noreply@github.com> 1586668116 -0600\n\nAdding Documentation for ElasticSearch instance setup"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/ce97c57d4715385fcc1ce221a4e491c8bfdd172b",
@@ -9323,8 +9323,8 @@
         "node_id": "MDY6Q29tbWl0MjM5MzczNzkxOmM1YjNjNTk3MGQwNTllODA4MWEwZDg0ZGUzY2E0MDhiZTJlOGY1NWQ=",
         "commit": {
             "author": {
-                "name": "Vishwanath Kulkarni",
-                "email": "vishwa.kulkarni@gmail.com",
+                "name": "Chintan Modi",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-12T04:40:06Z"
             },
             "committer": {
@@ -9343,7 +9343,7 @@
                 "verified": true,
                 "reason": "valid",
                 "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJekpumCRBK7hj4Ov3rIwAAdHIIABJ1J0g34Dc9/oKMmoRYZ+NU\nYVILbfT0SHm+nFtlgBMfIK9zvxTwszfT1T6nkK6bj/JalLjD5zJiqGdw/oxMtB22\nBXyonYSZzTxk+oNlyc8TWWkWNcEc5oZY64nD3xjxCfjk7MlrM5Ip53tvsH8El4yK\n07PBqwN6KQCRBMuY7AUoG1hirbhDZRCVi/LTxm5MOZPcADijJD54kAyG3hnPlMNO\n1jDxSjEuptlFJon9pDQj40Igck3P9sLYjDKnHky5tF4iUXLTLVxNvtmf7EGm7O7p\nmMTCUFbJrPBjkL2URU8F/oSgJdh2f6i5FzfCH4z3ooyi8TQOH20wyPPrTnK43sQ=\n=Vldj\n-----END PGP SIGNATURE-----\n",
-                "payload": "tree 8dba895facc3cf1f9d4d46da7ff8c034ec6f6dcb\nparent 42db70323b8283b4707225ade99dab1a5d2a9d43\nauthor Vishwanath Kulkarni <vishwa.kulkarni@gmail.com> 1586666406 -0600\ncommitter GitHub <noreply@github.com> 1586666406 -0600\n\nAdded documentation for local setup"
+                "payload": "tree 8dba895facc3cf1f9d4d46da7ff8c034ec6f6dcb\nparent 42db70323b8283b4707225ade99dab1a5d2a9d43\nauthor Chintan Modi <chintanmodi009@gmail.com> 1586666406 -0600\ncommitter GitHub <noreply@github.com> 1586666406 -0600\n\nAdded documentation for local setup"
             }
         },
         "url": "https://api.github.com/repos/mozilla/Kode-Kallas/commits/c5b3c5970d059e8081a0d84de3ca408be2e8f55d",
@@ -9422,12 +9422,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-12T04:12:45Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-12T04:12:45Z"
             },
             "message": "Creating Flask server to automate everythig along with helper file",
@@ -9555,12 +9555,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T23:31:47Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T23:31:47Z"
             },
             "message": " adding comments to elastic search",
@@ -9711,12 +9711,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T18:52:44Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T18:52:44Z"
             },
             "message": "Adding org information to elastic search",
@@ -9855,12 +9855,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:53:20Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:53:20Z"
             },
             "message": "Adding ReadMe to main Folder",
@@ -9953,12 +9953,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:52:44Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:52:44Z"
             },
             "message": "Adding ReadMe",
@@ -10051,12 +10051,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:50:45Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "vishwa.kulkarni@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-11T13:50:45Z"
             },
             "message": "Gitup data crawler",
