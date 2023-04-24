@@ -201,12 +201,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:22:29Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:22:29Z"
             },
             "message": "Updated missing thread count information",
@@ -1170,12 +1170,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:06:25Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:06:25Z"
             },
             "message": "Merge remote-tracking branch 'origin/master' into shreyas",
@@ -1428,12 +1428,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:04:50Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T19:04:50Z"
             },
             "message": "Analytics on collaborators, issues, languages and commits. Used multithreading for faster processing.",
@@ -2525,12 +2525,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T09:41:22Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T09:41:22Z"
             },
             "message": "Merge remote-tracking branch 'origin/master' into shreyas",
@@ -2674,12 +2674,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T09:37:58Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-18T09:37:58Z"
             },
             "message": "Creating Repo data with contributors list",
@@ -3268,12 +3268,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T05:52:25Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T05:52:25Z"
             },
             "message": "Merge remote-tracking branch 'origin/master'",
@@ -3567,12 +3567,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T05:51:34Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-17T05:51:34Z"
             },
             "message": "Insert data to Cassandra using CassandraHelper",
@@ -4660,12 +4660,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T07:50:05Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T07:50:05Z"
             },
             "message": "Merge remote-tracking branch 'refs/remotes/origin/master'",
@@ -4945,12 +4945,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T07:49:46Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T07:49:46Z"
             },
             "message": "Retrieving data from Elastic search",
@@ -5599,12 +5599,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T05:33:23Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-16T05:33:23Z"
             },
             "message": "Github analytics flask app layout",
@@ -8237,12 +8237,12 @@
         "commit": {
             "author": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T05:40:08Z"
             },
             "committer": {
                 "name": "cmodi009",
-                "email": "shreyas.g.krishna@gmail.com",
+                "email": "chintanmodi009@gmail.com",
                 "date": "2020-04-15T05:40:08Z"
             },
             "message": "Added Architecture Diagram",

@@ -674,7 +674,7 @@
     "commits": [
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-19T00:29:09Z",
         "message": "Adding Try Catch for commits issue",
         "stats": {
@@ -718,7 +718,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T19:22:29Z",
         "message": "Updated missing thread count information",
         "stats": {
@@ -731,7 +731,7 @@
         "commiter_id": 19864447,
         "commiter_name": "web-flow",
         "date": "2020-04-18T19:13:43Z",
-        "message": "Merge pull request #2 from CUBigDataClass/shreyas\n\nAnalytics on collaborators, issues, languages and contributions with multithreading.",
+        "message": "Merge pull request #2 from mozilla/shreyas\n\nAnalytics on collaborators, issues, languages and contributions with multithreading.",
         "stats": {
           "additions": 14169,
           "deletions": 18,
@@ -740,7 +740,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T19:06:25Z",
         "message": "Merge remote-tracking branch 'origin/master' into shreyas",
         "stats": {
@@ -751,7 +751,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T19:04:50Z",
         "message": "Analytics on collaborators, issues, languages and commits. Used multithreading for faster processing.",
         "stats": {
@@ -762,7 +762,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T18:51:49Z",
         "message": "Removing .pyc files",
         "stats": {
@@ -773,7 +773,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T18:49:19Z",
         "message": "Updating commits with addition and deletion",
         "stats": {
@@ -784,7 +784,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T09:41:22Z",
         "message": "Merge remote-tracking branch 'origin/master' into shreyas",
         "stats": {
@@ -795,7 +795,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-18T09:37:58Z",
         "message": "Creating Repo data with contributors list",
         "stats": {
@@ -806,7 +806,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-17T23:43:52Z",
         "message": "sending each commit to commit elastic search with server",
         "stats": {
@@ -817,7 +817,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-17T23:43:52Z",
         "message": "sending each commit to commit elastic search",
         "stats": {
@@ -850,7 +850,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-17T05:52:25Z",
         "message": "Merge remote-tracking branch 'origin/master'",
         "stats": {
@@ -861,7 +861,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-17T05:51:34Z",
         "message": "Insert data to Cassandra using CassandraHelper",
         "stats": {
@@ -874,7 +874,7 @@
         "commiter_id": 19864447,
         "commiter_name": "web-flow",
         "date": "2020-04-17T03:43:01Z",
-        "message": "Merge pull request #1 from CUBigDataClass/karthik\n\nAdded get_all with index specs: Updated postman apis can be found in the readme link",
+        "message": "Merge pull request #1 from mozilla/karthik\n\nAdded get_all with index specs: Updated postman apis can be found in the readme link",
         "stats": {
           "additions": 37,
           "deletions": 3,
@@ -940,7 +940,7 @@
         "commiter_id": null,
         "commiter_name": null,
         "date": "2020-04-16T22:18:12Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Kode-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
         "stats": {
           "additions": 28,
           "deletions": 7,
@@ -960,7 +960,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-16T07:50:05Z",
         "message": "Merge remote-tracking branch 'refs/remotes/origin/master'",
         "stats": {
@@ -971,7 +971,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-16T07:49:46Z",
         "message": "Retrieving data from Elastic search",
         "stats": {
@@ -995,7 +995,7 @@
         "commiter_id": null,
         "commiter_name": null,
         "date": "2020-04-16T06:14:34Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Kode-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
         "stats": {
           "additions": 63,
           "deletions": 4,
@@ -1015,7 +1015,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-16T05:33:23Z",
         "message": "Github analytics flask app layout",
         "stats": {
@@ -1039,7 +1039,7 @@
         "commiter_id": null,
         "commiter_name": null,
         "date": "2020-04-16T05:15:15Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Kode-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
         "stats": {
           "additions": 28719,
           "deletions": 26,
@@ -1083,7 +1083,7 @@
         "commiter_id": null,
         "commiter_name": null,
         "date": "2020-04-16T04:05:32Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Koe-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Koe-Kallas",
         "stats": {
           "additions": 550,
           "deletions": 26,
@@ -1103,7 +1103,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-15T16:49:50Z",
         "message": "Updating key",
         "stats": {
@@ -1114,7 +1114,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-15T15:28:09Z",
         "message": "Adding Users info to ealstic search along with user cammand",
         "stats": {
@@ -1125,7 +1125,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-15T13:29:25Z",
         "message": "Fixing Org issue",
         "stats": {
@@ -1147,7 +1147,7 @@
       },
       {
         "commiter_id": 11889130,
-        "commiter_name": "shreyas-gopalakrishna",
+        "commiter_name": "cmodi009",
         "date": "2020-04-15T05:40:08Z",
         "message": "Added Architecture Diagram",
         "stats": {
@@ -1171,7 +1171,7 @@
         "commiter_id": null,
         "commiter_name": null,
         "date": "2020-04-15T05:06:56Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Kode-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
         "stats": {
           "additions": 223,
           "deletions": 6,
@@ -1213,9 +1213,9 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-14T01:44:46Z",
-        "message": "Merge branch 'master' of https://github.com/CUBigDataClass/Kode-Kallas",
+        "message": "Merge branch 'master' of https://github.com/mozilla/Kode-Kallas",
         "stats": {
           "additions": 19,
           "deletions": 0,
@@ -1224,7 +1224,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-14T01:44:42Z",
         "message": "adding put command",
         "stats": {
@@ -1268,7 +1268,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-12T04:12:45Z",
         "message": "Creating Flask server to automate everythig along with helper file",
         "stats": {
@@ -1279,7 +1279,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-11T23:31:47Z",
         "message": " adding comments to elastic search",
         "stats": {
@@ -1290,7 +1290,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-11T18:52:44Z",
         "message": "Adding org information to elastic search",
         "stats": {
@@ -1301,7 +1301,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-11T13:53:20Z",
         "message": "Adding ReadMe to main Folder",
         "stats": {
@@ -1312,7 +1312,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-11T13:52:44Z",
         "message": "Adding ReadMe",
         "stats": {
@@ -1323,7 +1323,7 @@
       },
       {
         "commiter_id": 5782419,
-        "commiter_name": "vishwakulkarni",
+        "commiter_name": "cmodi009",
         "date": "2020-04-11T13:50:45Z",
         "message": "Gitup data crawler",
         "stats": {
@@ -1337,16 +1337,16 @@
       {
         "avatar_url": "https://avatars2.githubusercontent.com/u/11889130?v=4",
         "contributions": 25,
-        "html_url": "https://github.com/shreyas-gopalakrishna",
+        "html_url": "https://github.com/cmodi009",
         "id": 11889130,
-        "name": "shreyas-gopalakrishna"
+        "name": "cmodi009"
       },
       {
         "avatar_url": "https://avatars2.githubusercontent.com/u/5782419?v=4",
         "contributions": 22,
-        "html_url": "https://github.com/vishwakulkarni",
+        "html_url": "https://github.com/cmodi009",
         "id": 5782419,
-        "name": "vishwakulkarni"
+        "name": "cmodi009"
       },
       {
         "avatar_url": "https://avatars2.githubusercontent.com/u/7661540?v=4",
@@ -1366,9 +1366,9 @@
     "created_at": "2020-02-09T21:02:35Z",
     "description": "Github Analytics and Dashboard",
     "forks_count": 0,
-    "forks_url": "https://api.github.com/repos/CUBigDataClass/Kode-Kallas/forks",
-    "full_name": "CUBigDataClass/Kode-Kallas",
-    "html_url": "https://github.com/CUBigDataClass/Kode-Kallas",
+    "forks_url": "https://api.github.com/repos/mozilla/Kode-Kallas/forks",
+    "full_name": "mozilla/Kode-Kallas",
+    "html_url": "https://github.com/mozilla/Kode-Kallas",
     "id": 239373791,
     "issues": [],
     "languages": {
@@ -1382,12 +1382,12 @@
     "open_issues_count": 0,
     "owner": {
       "avatar_url": "https://avatars0.githubusercontent.com/u/6345918?v=4",
-      "html_url": "https://github.com/CUBigDataClass",
+      "html_url": "https://github.com/mozilla",
       "id": 6345918,
-      "name": "CUBigDataClass",
-      "organizations_url": "https://api.github.com/users/CUBigDataClass/orgs"
+      "name": "mozilla",
+      "organizations_url": "https://api.github.com/users/mozilla/orgs"
     },
-    "tags_url": "https://api.github.com/repos/CUBigDataClass/Kode-Kallas/tags",
+    "tags_url": "https://api.github.com/repos/mozilla/Kode-Kallas/tags",
     "updated_at": "2020-04-19T00:29:19Z",
     "watchers_count": 0
   }
