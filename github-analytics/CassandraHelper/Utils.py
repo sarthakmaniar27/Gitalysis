@@ -37,8 +37,6 @@ def getCommitsList(data):
         commit['date'] = data[i]['commit']['committer']['date']
         commit['commiter_name'] = data[i]['committer']['login']
         commit['commiter_id'] = data[i]['committer']['id']
-        commit['commiter-name'] = data[i]['committer']['login']
-        commit['commiter-id'] = data[i]['committer']['id']
         commitsList.append(commit)
     return commitsList
 
@@ -65,8 +63,14 @@ def processCommitData(data):
         commitData = data[i]['_source']
         commit = dict()
         commit['message'] = commitData['commit']['message']
-        commit['date'] = commitData['commit']['committer']['date']
-        commit['commiter_name'] = commitData['committer']['login']
+        try:
+            commit['date'] = commitData['commit']['committer']['date']
+        except:
+            commit['date'] = None
+        try:
+            commit['commiter_name'] = commitData['committer']['login']
+        except:
+            commit['commiter_name'] = None
         commit['stats'] = {
             "additions": commitData['stats']['additions'],
             "deletions": commitData['stats']['deletions'],
@@ -78,3 +82,11 @@ def processCommitData(data):
             commit['commiter_id'] = None
         commitsList.append(commit)
     return commitsList
+
+# Elastic search utils
+def getFromElastic(function, url, query):
+    try:
+        r = requests.post(url, json=query)
+        return function(r.json())
+    except:
+        return {'error': 'Error retrieving data from Elastic'}
