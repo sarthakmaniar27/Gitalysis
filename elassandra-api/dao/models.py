@@ -14,13 +14,21 @@ class commit(UserType):
     total = Integer()
 
 
-class perm(UserType):
+class perm_model(UserType):
     admin = Boolean()
     push = Boolean()
     pull = Boolean()
+
+
+class license_model(UserType):
+    key = Text(required=False)
+    name = Text(required=False)
+    spdx_id = Text(required=False)
+    url = Text(required=False)
+    node_id = Text(required=False)
     
     
-class own(UserType):
+class owner_model(UserType):
     login = Text(required=False)
     id = Integer(required=False)
     node_id = Text(required=False)
@@ -114,7 +122,5 @@ class Repo(Model):
     open_issues = Integer(required=False)
     watchers = Integer(required=False)
     default_branch = Text(required=False)
-    permissions = UserDefinedType(perm)
-    owner = UserDefinedType(own)
-
-
+    permissions = UserDefinedType(perm_model)
+    owner = UserDefinedType(owner_model)
