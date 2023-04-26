@@ -8,9 +8,6 @@ from CassandraHelper import CassandraRepoData as crd
 from CassandraHelper import CassandraUserData as cud
 from CassandraHelper import Utils as utils
 import json
-
-
-  
 app = Flask(__name__)
 elasticSearchHelper = esh.ElasticSearchHelper()
 cassandraHelper = ch.CassandraHelper()
@@ -38,7 +35,6 @@ def repoRetrieveSingleOrg(orgname, reponame):
     cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
     print("Done Done!")
     return jsonify(cassandraRepoData.data)
-
 @app.route('/users/<orgname>')
 def userRetrieve(orgname):
     elasticUserData = elasticSearchHelper.getUserData(orgname)
@@ -46,7 +42,6 @@ def userRetrieve(orgname):
     cassandraUserData = cud.CassandraUserData(elasticUserData)
     print("Done Done!")
     return jsonify(cassandraUserData.data)
-
 @app.route('/users/<orgname>/<reponame>')
 def userRetrieveSingleOrg(orgname, reponame):
     elasticUserData = elasticSearchHelper.getUserData(orgname, reponame)
@@ -57,11 +52,11 @@ def userRetrieveSingleOrg(orgname, reponame):
 
 @app.route('/username/<username>')
 def userRetrieveByUsername(username):
-    return elasticSearchHelper.getUserData(username)
-
-@app.route('/userId/<userId>')
-def userRetrieveByUsername(username):
-    return elasticSearchHelper.getUserData(username)
+    elasticUserData = elasticSearchHelper.getUserDataByUsername(username)
+    # return elasticUserData
+    cassandraUserData = cud.CassandraUserData(elasticUserData)
+    print("Done Done!")
+    return jsonify(cassandraUserData.data)
 
 if __name__ == '__main__':
     app.run(host=config.FLASK_HOST, port=config.FLASK_PORT, debug=True)
