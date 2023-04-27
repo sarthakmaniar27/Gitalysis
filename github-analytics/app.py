@@ -28,13 +28,13 @@ def repoRetrieve(orgname):
     cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
     print("Done Done!")
     return jsonify(cassandraRepoData.data)
-@app.route('/repo/<orgname>/<reponame>')
-def repoRetrieveSingleOrg(orgname, reponame):
-    elasticRepoData = elasticSearchHelper.getOrgSpecificRepoData(orgname,reponame)
-    # return jsonify(utils.processCommitData(elasticRepoData))
-    cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
-    print("Done Done!")
-    return jsonify(cassandraRepoData.data)
+# @app.route('/repo/<orgname>/<reponame>')
+# def repoRetrieveSingleOrg(orgname, reponame):
+#     elasticRepoData = elasticSearchHelper.getOrgSpecificRepoData(orgname,reponame)
+#     # return jsonify(utils.processCommitData(elasticRepoData))
+#     cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
+#     print("Done Done!")
+#     return jsonify(cassandraRepoData.data)
 @app.route('/users/<orgname>')
 def userRetrieve(orgname):
     elasticUserData = elasticSearchHelper.getUserData(orgname)

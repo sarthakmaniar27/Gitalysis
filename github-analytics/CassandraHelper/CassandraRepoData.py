@@ -2,30 +2,42 @@ from CassandraHelper import Utils as utils
 from CassandraHelper import config
 from multiprocessing import Pool
 from ElasticSearchHelper import ElasticSearchHelper as esh
-
 class CassandraRepoData():
     def __init__(self, elasticOrgData):
         dataList = elasticOrgData['hits']['hits']
-        # threadPool = Pool(config.THREAD_COUNT)
-        # self.data = threadPool.map(self.processDataList, dataList)
-        for i in range(len(dataList)):
-            self.processDataList(dataList[i])
-
+        self.data = list()
+        threadPool = Pool(config.THREAD_COUNT)
+        self.data = threadPool.map(self.processDataList, dataList)
+        print("Done CassandraRepoData")
+        # for i in range(len(dataList)):
+        #     self.data.append(self.processDataList(dataList[i]))
     def processDataList(self, repoDataItem):
-        elasticSearchHelper = esh.ElasticSearchHelper()
         repoDataItem = repoDataItem['_source']
+        print(repoDataItem)
+        elasticSearchHelper = esh.ElasticSearchHelper()
         repoData = {
             "contributors": utils.get(utils.getContributorsList, repoDataItem['contributors_url']),
             "name": repoDataItem['name'],
-            "commits": utils.processCommitData(elasticSearchHelper.getCommitData(repoDataItem['owner']['login'], repoDataItem['name'])),#utils.get(utils.getCommitsList, repoDataItem['commits_url'][:-6]),
+            "commits": utils.processCommitData(elasticSearchHelper.getCommitData(repoDataItem['owner']['login'], repoDataItem['name'])), #utils.get(utils.getCommitsList, repoDataItem['commits_url'][:-6]),
             "created_at": repoDataItem['created_at'],
             "issues": utils.get(utils.getIssuesList, repoDataItem['issues_url'][:-9]),
             "id": repoDataItem['id'],
             "watchers_count": repoDataItem['watchers_count'],
-            "description": repoDataItem['description'],
+            # "description": repoDataItem['description'],
             "forks_count": repoDataItem['forks_count'],
             "forks_url": repoDataItem['forks_url'],
             "full_name": repoDataItem['full_name'],
+
+    
+          
+            
+    
+
+          
+          Expand Down
+    
+    
+  
             "html_url": repoDataItem['html_url'],
             "languages": utils.get(utils.getLanguages, repoDataItem['languages_url'], False),
             "owner": {
