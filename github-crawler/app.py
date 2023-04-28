@@ -4,18 +4,13 @@ import lib.helper as helpp
 import csv
 import json
 import lib.Utils as utils
-
 #constants below
 OWNER = 'vishwakulkarni'
 github_api = "https://api.github.com"
-
 helper = helpp.Helper()
-
 @app.route('/')
 def home_page():
     return 'Hello guys nothing here! just submit your github organization name at "/org/<orgname>"!'
-
-
 @app.route('/org/<orgname>')
 def org_parser(orgname):
     #csvwriter = csv.writer(open('lib/data/balancedData4.csv', 'w'))
@@ -32,14 +27,17 @@ def org_parser(orgname):
     repo_list = helper.get_repositories(OWNER,github_api)
     print("sending repo info to elasticsearch")
     repo_list = utils.addExtraData(repo_list)
-    return repo_list
     i=0
     for repo in repo_list:
         repo['license']="test"
-        repo_list[i]['license'] = "test" 
+        repo_list[i]['license'] = "test"
+        i = i + 1
         #helper.send_to_elasticInstance(repo,'repos',repo['id'])
         print("repo sent "+ repo['name'] )
     # sending repo list to ellasandra
+
+    
+  
     helper.send_repo_data_to_ellasandra(repo_list)
     print("Getting Org Members for "+orgname)
     member_list = helper.get_org_users(OWNER,github_api)
@@ -67,11 +65,9 @@ def org_parser(orgname):
             #     ls_line = ""
             # if ls_line!="":
             #     csvwriter.writerow(ls_line)
-
         helper.send_commits_to_ellasandra(commits)
     print("Done!!!!!!!!!")
     return 'We got your org name ' + orgname + ' give us some time to process your request, please check server output for progress'
-
     
 if __name__ == "__main__":
     app.run(debug=True, port=4000)
