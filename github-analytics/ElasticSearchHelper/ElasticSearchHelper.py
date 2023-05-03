@@ -60,8 +60,3 @@ class ElasticSearchHelper():
         res = es.search(index='users', body={"query": {"match": {"login": username}}, "_source": config.ELASTIC_USER_DATA_FIELDS, 'size': 1000})
         # res = utils.getFromElastic(config.ELASTIC_USER_URL, utils.getUserByUsernameQuery(username))
         return res
-
-    # def getRepoSpecificUserData(self, orgname, reponame):
-        # es = Elasticsearch([{'host': config.ELASTIC_HOST, 'port': config.ELASTIC_PORT}], timeout=30)
-        # res = es.search(index='repos', body={"query": {"match": {"owner.login": orgname}, "match": {"name": reponame}}, "_source": config.ELASTIC_REPO_DATA_FIELDS, 'size': 1000})
-        # return res

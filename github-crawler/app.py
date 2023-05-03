@@ -6,7 +6,7 @@ import json
 import lib.Utils as utils
 
 #constants below
-OWNER = 'vishwakulkarni'
+OWNER = 'cmodi009'
 github_api = "https://api.github.com"
 
 helper = helpp.Helper()

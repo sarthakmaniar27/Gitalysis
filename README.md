@@ -1,3 +1,3 @@
 # Gitalysis
 
-## Sarthak Maniar, Kunal Rane, Chintan Modi
+## Contributors - Sarthak Maniar, Kunal Rane, Chintan Modi

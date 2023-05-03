@@ -8,12 +8,15 @@ from CassandraHelper import CassandraRepoData as crd
 from CassandraHelper import CassandraUserData as cud
 from CassandraHelper import Utils as utils
 import json
+
 app = Flask(__name__)
 elasticSearchHelper = esh.ElasticSearchHelper()
 cassandraHelper = ch.CassandraHelper()
+
 @app.route('/')
 def home():
     return 'Github Analytics - Use APIs to process data. /org/{organization_name}'
+
 @app.route('/org/<orgname>')
 def orgRetrieve(orgname):
     elasticOrgData = elasticSearchHelper.getOrgData(orgname)
@@ -21,6 +24,7 @@ def orgRetrieve(orgname):
     cassandraOrgData = cod.CassandraOrgData(elasticOrgData)
     return cassandraOrgData.data
     # return cassandraHelper.insertOrgData(cassandraOrgData.data)
+    
 @app.route('/repo/<orgname>')
 def repoRetrieve(orgname):
     elasticRepoData = elasticSearchHelper.getRepoData(orgname)
@@ -28,13 +32,7 @@ def repoRetrieve(orgname):
     cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
     print("Done Done!")
     return jsonify(cassandraRepoData.data)
-# @app.route('/repo/<orgname>/<reponame>')
-# def repoRetrieveSingleOrg(orgname, reponame):
-#     elasticRepoData = elasticSearchHelper.getOrgSpecificRepoData(orgname,reponame)
-#     # return jsonify(utils.processCommitData(elasticRepoData))
-#     cassandraRepoData = crd.CassandraRepoData(elasticRepoData)
-#     print("Done Done!")
-#     return jsonify(cassandraRepoData.data)
+
 @app.route('/users/<orgname>')
 def userRetrieve(orgname):
     elasticUserData = elasticSearchHelper.getUserData(orgname)
@@ -42,6 +40,7 @@ def userRetrieve(orgname):
     cassandraUserData = cud.CassandraUserData(elasticUserData)
     print("Done Done!")
     return jsonify(cassandraUserData.data)
+
 @app.route('/users/<orgname>/<reponame>')
 def userRetrieveSingleOrg(orgname, reponame):
     elasticUserData = elasticSearchHelper.getUserData(orgname, reponame)

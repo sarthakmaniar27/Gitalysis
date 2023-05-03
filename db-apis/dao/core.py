@@ -47,23 +47,6 @@ def insert(request):
 
 def insert_repos(request):
     content = request.get_json()
-    # obj_list = content[BODY]
-    # cluster = Cluster()
-    # session = cluster.connect('org1')
-    x = '{"name":"Hehe16666", "addr": [{ "contributions": 1, "html_url": "https://github.com/dmalan", "contrib_id": "788678", "name": "dmalan"}]}'
-    # for obj in obj_list:
-    # haha = jsonify(obj)
-    # lol = str(haha)
-    # query = SimpleStatement("INSERT INTO users2 JSON \'" + str(jsonify(obj)) + "\';")
-    # Users.create(**(obj))
-    # query = SimpleStatement("INSERT INTO users2 JSON \'" + str(x) + "\';")
-    # session.execute(query)
-    string = jsonify(request.get_json())
-    # query = SimpleStatement("INSERT INTO users2 JSON \'" + str(request.get_json()) + "\';")
-    # query = SimpleStatement("INSERT INTO users2 JSON \'" + str(x) + "\';")
-    # session.execute(query)
-    # create(session)
-
     connection.setup(CASSANDRA_HOSTS, 'org1')
     users3.create(**(content[BODY]))
 
